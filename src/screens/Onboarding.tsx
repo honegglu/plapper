@@ -1,6 +1,7 @@
-import { ArrowLeft, ArrowRight, Check, HandTap } from '@phosphor-icons/react'
+import { ArrowLeft, ArrowRight, Check } from '@phosphor-icons/react'
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react'
 import { useState } from 'react'
+import { GestureCard, type Gesture } from '../components/GestureCard'
 import { Logo } from '../components/Shell'
 import { Button } from '../components/ui'
 import { WordMeta, WordTitle } from '../components/WordBits'
@@ -11,6 +12,12 @@ import { useStore } from '../store'
 const PREVIEW = ['petitesse', 'hanebuechen', 'antichambrieren']
   .map((id) => WORDS_BY_ID[id])
   .filter(Boolean)
+
+const GESTURES: { gesture: Gesture; title: string; text: string }[] = [
+  { gesture: 'right', title: 'Nach rechts: Kenne ich', text: 'Wir fragen es später trotzdem einmal ab.' },
+  { gesture: 'left', title: 'Nach links: Neu für mich', text: 'Das Wort kommt in deinen Lernstapel.' },
+  { gesture: 'tap', title: 'Tippen: Bedeutung zeigen', text: 'Ehrlich sein lohnt sich: Neues bringt mehr Punkte.' },
+]
 
 function CardFan() {
   const reduce = useReducedMotion()
@@ -43,6 +50,8 @@ function CardFan() {
 export function Onboarding() {
   const [step, setStep] = useState(0)
   const [goal, setGoal] = useState(DEFAULT_GOAL)
+  const [learned, setLearned] = useState(0)
+  const allLearned = learned >= GESTURES.length
   const complete = useStore((s) => s.completeOnboarding)
   const go = useStore((s) => s.go)
   const reduce = useReducedMotion()
@@ -142,35 +151,29 @@ export function Onboarding() {
         {step === 2 && (
           <motion.section key="s2" {...slide} className="mx-auto flex w-full max-w-xl flex-1 flex-col justify-center py-8">
             <h1 className="text-3xl font-semibold tracking-[-0.03em] sm:text-4xl">So funktioniert's</h1>
+            <p className="mt-3 text-slate">Probier die drei Gesten gleich hier aus.</p>
             <div className="mt-8 grid gap-3">
-              <div className="flex items-center gap-4 rounded-card bg-tint-mint p-4 text-tint-ink-mint">
-                <ArrowRight size={26} weight="bold" />
-                <div>
-                  <div className="font-semibold">Nach rechts: Kenne ich</div>
-                  <div className="text-sm opacity-80">Wir fragen es später trotzdem einmal ab.</div>
-                </div>
-              </div>
-              <div className="flex items-center gap-4 rounded-card bg-tint-peach p-4 text-tint-ink-peach">
-                <ArrowLeft size={26} weight="bold" />
-                <div>
-                  <div className="font-semibold">Nach links: Neu für mich</div>
-                  <div className="text-sm opacity-80">Das Wort kommt in deinen Lernstapel.</div>
-                </div>
-              </div>
-              <div className="flex items-center gap-4 rounded-card bg-tint-lavender p-4 text-tint-ink-lavender">
-                <HandTap size={26} weight="bold" />
-                <div>
-                  <div className="font-semibold">Tippen: Bedeutung zeigen</div>
-                  <div className="text-sm opacity-80">Ehrlich sein lohnt sich: Neues bringt mehr Punkte.</div>
-                </div>
-              </div>
+              {GESTURES.map((g, i) => (
+                <GestureCard
+                  key={g.gesture}
+                  gesture={g.gesture}
+                  title={g.title}
+                  text={g.text}
+                  status={i < learned ? 'done' : i === learned ? 'active' : 'locked'}
+                  onDone={() => setLearned((n) => Math.max(n, i + 1))}
+                />
+              ))}
             </div>
-            <p className="mt-6 text-sm text-steel">Als Startbonus bekommst du 10 XP. Dein Tagesziel ist schon angebrochen.</p>
+            <p className="mt-6 text-sm text-steel">
+              {allLearned
+                ? 'Als Startbonus bekommst du 10 XP. Dein Tagesziel ist schon angebrochen.'
+                : `Noch ${GESTURES.length - learned} von ${GESTURES.length} Gesten, dann geht's los.`}
+            </p>
             <div className="mt-6 flex gap-3">
               <Button variant="ghost" onClick={() => setStep(1)} aria-label="Zurück">
                 <ArrowLeft size={18} />
               </Button>
-              <Button size="lg" className="flex-1 sm:flex-none" onClick={finish}>
+              <Button size="lg" className="flex-1 sm:flex-none" onClick={finish} disabled={!allLearned}>
                 Erste Wörter entdecken <ArrowRight size={18} weight="bold" />
               </Button>
             </div>
