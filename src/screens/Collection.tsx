@@ -148,7 +148,7 @@ export function Collection() {
               tab === t.id ? 'border-ink bg-ink text-page' : 'border-hairline text-steel hover:text-ink'
             }`}
           >
-            {t.label} <span className="ml-1 tabular-nums opacity-70">{t.n}</span>
+            {t.label} <span className="ml-1 tabular-nums">{t.n}</span>
           </button>
         ))}
       </div>
@@ -215,7 +215,7 @@ export function Collection() {
                   {p?.favorite && <Heart size={16} weight="fill" className="shrink-0 text-tint-ink-rose" />}
                 </div>
                 {hide ? (
-                  <span className="text-sm text-stone">Noch nicht entdeckt</span>
+                  <span className="text-sm text-steel">Noch nicht entdeckt</span>
                 ) : (
                   <span lang="de" className="line-clamp-2 text-sm text-slate">
                     {s(w.definition)}

@@ -37,7 +37,7 @@ const optionClass = {
   idle: 'border-hairline bg-canvas hover:border-primary/60 hover:bg-primary-soft/40',
   right: 'border-success bg-success-soft text-success-ink',
   wrong: 'border-error bg-error-soft text-error-ink',
-  dim: 'border-hairline bg-canvas opacity-50',
+  dim: 'border-hairline bg-canvas text-steel',
 }
 
 function Options({ q, answer, onChoose }: { q: Exclude<Question, { kind: 'truefalse' }>; answer: Answer | null; onChoose: (w: Word) => void }) {

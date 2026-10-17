@@ -93,7 +93,7 @@ export function Shell({ children, focus }: { children: ReactNode; focus: boolean
                   onClick={() => go(id)}
                   aria-current={active ? 'page' : undefined}
                   className={`press relative flex flex-col items-center gap-1 py-2.5 text-[11px] font-medium ${
-                    active ? 'text-primary' : 'text-steel'
+                    active ? 'text-primary-ink' : 'text-steel'
                   }`}
                 >
                   <I size={24} weight={active ? 'fill' : 'regular'} />

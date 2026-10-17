@@ -98,7 +98,7 @@ export function GestureCard({
       }}
       whileTap={active && gesture === 'tap' ? { scale: 0.97 } : undefined}
       style={{ x, rotate }}
-      animate={{ opacity: status === 'locked' ? 0.45 : 1, scale: done ? 0.98 : 1 }}
+      animate={{ opacity: status === 'locked' ? 0.6 : 1, scale: done ? 0.98 : 1 }}
       transition={{ type: 'spring', stiffness: 300, damping: 26 }}
       className={`relative flex touch-pan-y select-none items-center gap-4 rounded-card p-4 ${tone} ${
         active ? `cursor-grab shadow-card ring-2 ${ring} active:cursor-grabbing` : ''
@@ -125,7 +125,7 @@ export function GestureCard({
       </div>
       <div className="min-w-0 flex-1">
         <div className="font-semibold">{title}</div>
-        <div className="text-sm opacity-80">
+        <div className="text-sm">
           {done ? 'Geschafft.' : wrong ? 'Andere Richtung, probier es nochmal.' : active ? `${verb}, um es auszuprobieren.` : text}
         </div>
       </div>

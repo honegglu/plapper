@@ -116,13 +116,13 @@ export function Profile() {
             return (
               <div
                 key={a.id}
-                className={`rounded-card p-4 ${got ? tint(a.tint) : 'border border-dashed border-hairline-strong text-stone'}`}
+                className={`rounded-card p-4 ${got ? tint(a.tint) : 'border border-dashed border-hairline-strong bg-canvas text-steel'}`}
               >
                 <div className="flex items-center justify-between">
                   <span className="font-semibold">{a.title}</span>
                   {!got && <Lock size={16} />}
                 </div>
-                <div className={`mt-1 text-sm ${got ? 'opacity-85' : ''}`}>{a.description}</div>
+                <div className="mt-1 text-sm">{a.description}</div>
               </div>
             )
           })}

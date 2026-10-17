@@ -21,7 +21,7 @@
   --ink: #1a1a1a;
   --charcoal: #37352f;
   --slate: #5d5b54;
-  --steel: #6f6d67;
+  --steel: #615f59;
   --stone: #a4a097;
   --primary: #5645d4;
   --primary-pressed: #4534b3;
@@ -201,6 +201,27 @@
   --shadow-modal: var(--shadow-modal);
 }
 
+/*
+ * Grundstil für body bewusst AUSSERHALB der Layer und mit "html body":
+ * claude.ai legt beim Veröffentlichen ein eigenes Grundgerüst um die Seite
+ * (body { background: #fff; color: #000; font: 14px -apple-system }). Diese
+ * Regel ist ungelayert und würde jede @layer-Regel schlagen. Ohne diese
+ * Überschreibung erbt Text ohne eigene Farbe Schwarz, auch im Dunkelmodus.
+ */
+html body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  font-feature-settings: "cv05", "cv08", "ss03";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior-y: none;
+  height: 100%;
+}
+
 @layer base {
   /* Eine Bildschirmhöhe über height: 100% statt 100vh: so passt die App auch in
      einen Rahmen, der oben/unten Abstand für eigene Bedienelemente einfügt. */
@@ -209,18 +230,6 @@
     height: 100%;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
-  }
-
-  body {
-    margin: 0;
-    background: var(--page);
-    color: var(--ink);
-    font-family: var(--font-sans);
-    font-feature-settings: "cv05", "cv08", "ss03";
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    overscroll-behavior-y: none;
-    height: 100%;
   }
 
   #root {
