@@ -1,7 +1,7 @@
 import { ArrowLeft, ArrowRight, ArrowsClockwise, Confetti, HandTap, Sparkle } from '@phosphor-icons/react'
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react'
 import { useMemo, useRef, useState } from 'react'
-import { XpPop, SessionHeader } from '../components/SessionBits'
+import { SessionHeader, XpCounter, type XpPopData } from '../components/SessionBits'
 import { SwipeCard, type SwipeDir, type SwipeHandle } from '../components/SwipeCard'
 import { Button, Card } from '../components/ui'
 import { WordDetails, WordMeta, WordTitle } from '../components/WordBits'
@@ -95,7 +95,7 @@ export function Discover() {
   const [index, setIndex] = useState(0)
   const [flipped, setFlipped] = useState(false)
   const [results, setResults] = useState<{ known: number; fresh: number; xp: number }>({ known: 0, fresh: 0, xp: 0 })
-  const [pop, setPop] = useState<{ id: number; amount: number; label?: string } | null>(null)
+  const [pop, setPop] = useState<XpPopData | null>(null)
   const cardRef = useRef<SwipeHandle>(null)
 
   const card = deck[index]
@@ -107,7 +107,7 @@ export function Discover() {
     const known = dir === 'right'
     const xp = discover(card.word.id, known, { flipped, gold: card.gold })
     vibrate(12)
-    setPop({ id: Date.now(), amount: xp, label: card.gold ? 'Goldwort' : undefined })
+    setPop({ id: Date.now(), amount: xp })
     setResults((r) => ({ known: r.known + (known ? 1 : 0), fresh: r.fresh + (known ? 0 : 1), xp: r.xp + xp }))
     setFlipped(false)
     setIndex((i) => i + 1)
@@ -134,7 +134,7 @@ export function Discover() {
   if (deck.length === 0) {
     const seen = Object.values(progress).filter((p) => p.box > 0).length
     return (
-      <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col justify-center px-4 py-10 text-center">
+      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10 text-center">
         <Confetti size={44} className="mx-auto text-primary" />
         <h1 className="mt-4 text-2xl font-semibold tracking-[-0.02em]">Du hast alle {seen} Wörter gesehen.</h1>
         <p className="mt-2 text-slate">Neue Wörter kommen mit dem nächsten Update. Bis dahin: festigen, was im Lernstapel liegt.</p>
@@ -151,7 +151,7 @@ export function Discover() {
   if (finished) {
     const remaining = WORDS.length - Object.values(useStore.getState().progress).filter((p) => p.box > 0).length
     return (
-      <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col justify-center px-4 py-10">
+      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10">
         <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ type: 'spring', stiffness: 140, damping: 18 }}>
           <h1 className="text-3xl font-semibold tracking-[-0.03em]">Runde geschafft.</h1>
           <p className="mt-2 text-slate">
@@ -202,12 +202,13 @@ export function Discover() {
   }
 
   return (
-    <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-4 pb-6">
+    <div className="mx-auto flex min-h-full max-w-md flex-col px-4 pb-6">
       <SessionHeader
         onClose={() => go('home')}
         done={index}
         total={deck.length}
-        right={<span className="text-sm font-semibold tabular-nums text-primary-ink">{results.xp} XP</span>}
+        right={<XpCounter xp={results.xp} />}
+        pop={pop}
       />
 
       <div className="flex flex-1 flex-col justify-center">
@@ -224,7 +225,6 @@ export function Discover() {
         >
           <CardFace card={card} flipped={flipped} onFlip={() => setFlipped((f) => !f)} />
         </SwipeCard>
-        <XpPop pop={pop} />
       </div>
 
       <div className="mt-6 grid grid-cols-[1fr_auto_1fr] items-center gap-3">

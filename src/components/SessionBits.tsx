@@ -1,5 +1,5 @@
 import { X } from '@phosphor-icons/react'
-import { AnimatePresence, motion } from 'motion/react'
+import { AnimatePresence, motion, useReducedMotion } from 'motion/react'
 import type { ReactNode } from 'react'
 import { Bar } from './ui'
 
@@ -9,11 +9,13 @@ export function SessionHeader({
   done,
   total,
   right,
+  pop = null,
 }: {
   onClose: () => void
   done: number
   total: number
   right?: ReactNode
+  pop?: XpPopData | null
 }) {
   return (
     <div className="flex items-center gap-3 py-3">
@@ -21,29 +23,53 @@ export function SessionHeader({
         <X size={22} />
       </button>
       <Bar value={total ? done / total : 0} className="flex-1" />
-      <div className="min-w-[64px] text-right">{right}</div>
+      <div className="relative min-w-[64px] text-right">
+        {right}
+        <XpPop pop={pop} />
+      </div>
     </div>
   )
 }
 
-/** Kurz aufsteigende "+12 XP"-Anzeige. */
-export function XpPop({ pop }: { pop: { id: number; amount: number; label?: string } | null }) {
+export interface XpPopData {
+  id: number
+  amount: number
+}
+
+/** Kurz aufsteigendes "+12" direkt unter dem XP-Zähler, ohne die Karte zu verdecken. */
+function XpPop({ pop }: { pop: XpPopData | null }) {
+  const reduce = useReducedMotion()
   return (
-    <div className="pointer-events-none absolute inset-x-0 top-[38%] z-20 flex justify-center">
+    <div className="pointer-events-none absolute right-0 top-full z-20" aria-live="polite">
       <AnimatePresence>
         {pop && (
           <motion.div
             key={pop.id}
-            initial={{ opacity: 0, y: 10, scale: 0.9 }}
-            animate={{ opacity: 1, y: -30, scale: 1 }}
-            exit={{ opacity: 0, y: -60 }}
-            transition={{ type: 'spring', stiffness: 220, damping: 20 }}
-            className="rounded-full bg-ink px-4 py-2 text-sm font-semibold text-page shadow-modal"
+            initial={reduce ? { opacity: 0 } : { opacity: 0, y: 8 }}
+            animate={reduce ? { opacity: [0, 1, 1, 0] } : { opacity: [0, 1, 1, 0], y: [8, 0, -4, -14] }}
+            transition={{ duration: 1.2, times: [0, 0.15, 0.7, 1], ease: 'easeOut' }}
+            className="whitespace-nowrap rounded-full bg-primary px-2 py-0.5 text-xs font-semibold tabular-nums text-on-primary"
           >
-            +{pop.amount} XP{pop.label ? ` · ${pop.label}` : ''}
+            +{pop.amount}
           </motion.div>
         )}
       </AnimatePresence>
     </div>
+  )
+}
+
+/** XP-Zähler, der beim Hochzählen kurz aufspringt. */
+export function XpCounter({ xp }: { xp: number }) {
+  const reduce = useReducedMotion()
+  return (
+    <motion.span
+      key={xp}
+      initial={reduce || xp === 0 ? false : { scale: 1.25 }}
+      animate={{ scale: 1 }}
+      transition={{ type: 'spring', stiffness: 500, damping: 18 }}
+      className="inline-block origin-right text-sm font-semibold tabular-nums text-primary-ink"
+    >
+      {xp} XP
+    </motion.span>
   )
 }

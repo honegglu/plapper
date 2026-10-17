@@ -1,7 +1,7 @@
 import { ArrowLeft, ArrowRight, Books, Check, Fire, Lightning, Sparkle, X } from '@phosphor-icons/react'
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react'
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { SessionHeader, XpPop } from '../components/SessionBits'
+import { SessionHeader, XpCounter, type XpPopData } from '../components/SessionBits'
 import { SwipeCard, type SwipeDir, type SwipeHandle } from '../components/SwipeCard'
 import { Button, Card, ProgressRing } from '../components/ui'
 import { WordMeta, WordTitle } from '../components/WordBits'
@@ -153,7 +153,7 @@ export function Practice() {
   const [answer, setAnswer] = useState<Answer | null>(null)
   const [combo, setCombo] = useState(0)
   const [stats, setStats] = useState({ correct: 0, xp: 0, bestCombo: 0, promoted: 0, mastered: 0 })
-  const [pop, setPop] = useState<{ id: number; amount: number; label?: string } | null>(null)
+  const [pop, setPop] = useState<XpPopData | null>(null)
   const [bonus, setBonus] = useState<number | null>(null)
   const shownAt = useRef(Date.now())
   const timer = useRef<number | undefined>(undefined)
@@ -204,7 +204,7 @@ export function Practice() {
     setAnswer({ correct, choiceId, xp, label })
     if (correct) {
       vibrate(15)
-      setPop({ id: Date.now(), amount: xp, label })
+      setPop({ id: Date.now(), amount: xp })
       timer.current = window.setTimeout(next, q.kind === 'meaning' ? 1100 : 1800)
     } else {
       vibrate([30, 40, 30])
@@ -239,7 +239,7 @@ export function Practice() {
   /* ---------- Leerer Lernstapel ---------- */
   if (questions.length === 0) {
     return (
-      <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col justify-center px-4 py-10">
+      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10">
         <div className="grid h-14 w-14 place-items-center rounded-card bg-tint-lavender text-tint-ink-lavender">
           <Books size={28} />
         </div>
@@ -267,7 +267,7 @@ export function Practice() {
     const goalDone = today >= st.dailyGoal
     const accuracy = Math.round((stats.correct / questions.length) * 100)
     return (
-      <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col justify-center px-4 py-10">
+      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10">
         <motion.div initial={reduce ? false : { opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ type: 'spring', stiffness: 140, damping: 18 }}>
           <h1 className="text-3xl font-semibold tracking-[-0.03em]">
             {accuracy === 100 ? 'Makellos.' : accuracy >= 70 ? 'Starke Runde.' : 'Gut gekämpft.'}
@@ -335,7 +335,7 @@ export function Practice() {
 
   /* ---------- Frage ---------- */
   return (
-    <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-4 pb-6">
+    <div className="mx-auto flex min-h-full max-w-md flex-col px-4 pb-6">
       <SessionHeader
         onClose={() => go('home')}
         done={qi + (answer ? 1 : 0)}
@@ -346,9 +346,10 @@ export function Practice() {
               <Fire size={16} weight="fill" /> ×{comboMultiplier(combo)}
             </span>
           ) : (
-            <span className="text-sm font-semibold tabular-nums text-primary-ink">{stats.xp} XP</span>
+            <XpCounter xp={stats.xp} />
           )
         }
+        pop={pop}
       />
 
       {extra && qi === 0 && !answer && (
@@ -427,7 +428,6 @@ export function Practice() {
               </div>
             </>
           )}
-          <XpPop pop={pop} />
         </motion.div>
       </AnimatePresence>
 

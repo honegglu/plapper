@@ -202,7 +202,11 @@
 }
 
 @layer base {
+  /* Eine Bildschirmhöhe über height: 100% statt 100vh: so passt die App auch in
+     einen Rahmen, der oben/unten Abstand für eigene Bedienelemente einfügt. */
   html {
+    box-sizing: border-box;
+    height: 100%;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
   }
@@ -216,6 +220,11 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     overscroll-behavior-y: none;
+    height: 100%;
+  }
+
+  #root {
+    height: 100%;
   }
 
   button {

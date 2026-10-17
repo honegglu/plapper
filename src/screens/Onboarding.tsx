@@ -69,7 +69,7 @@ export function Onboarding() {
   }
 
   return (
-    <div className="mx-auto flex min-h-[100dvh] max-w-5xl flex-col px-4 pb-8 pt-5 sm:px-8">
+    <div className="mx-auto flex min-h-full max-w-5xl flex-col px-4 pb-8 pt-5 sm:px-8">
       <header className="flex items-center justify-between">
         <Logo />
         <div className="flex gap-1.5" aria-label={`Schritt ${step + 1} von 3`}>

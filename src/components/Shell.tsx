@@ -41,7 +41,7 @@ export function Shell({ children, focus }: { children: ReactNode; focus: boolean
   const rank = rankFor(xp)
 
   return (
-    <div className="min-h-[100dvh] lg:grid lg:grid-cols-[248px_1fr]">
+    <div className="min-h-full lg:grid lg:grid-cols-[248px_1fr]">
       <aside className="sticky top-0 hidden h-[100dvh] flex-col border-r border-hairline bg-surface-soft px-3 py-5 lg:flex">
         <div className="px-2">
           <Logo />
