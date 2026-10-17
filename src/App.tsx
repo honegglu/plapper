@@ -9,12 +9,16 @@ import { Practice } from './screens/Practice'
 import { Profile } from './screens/Profile'
 import { useStore } from './store'
 
+// Was beim Laden auf <html data-theme> stand (z. B. vom claude.ai-Viewer gesetzt).
+const hostTheme = document.documentElement.getAttribute('data-theme')
+
 function useTheme() {
   const theme = useStore((s) => s.theme)
   useEffect(() => {
     const root = document.documentElement
-    if (theme === 'system') root.removeAttribute('data-theme')
-    else root.setAttribute('data-theme', theme)
+    if (theme !== 'system') root.setAttribute('data-theme', theme)
+    else if (hostTheme) root.setAttribute('data-theme', hostTheme)
+    else root.removeAttribute('data-theme')
   }, [theme])
 }
 
