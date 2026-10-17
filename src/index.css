@@ -1,0 +1,266 @@
+@import "tailwindcss";
+@import "@fontsource-variable/inter";
+
+/* Dark-Mode per Klasse/Attribut: <html data-theme="dark"> oder System-Einstellung. */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/*
+ * Design-Tokens nach DESIGN.md (Notion): violetter Primär-CTA, warme Neutraltöne,
+ * pastellige Karten-Tints, Navy als Dunkelmodus. Radien: Buttons 8px, Karten 12px,
+ * Lernkarte 24px, Pills/Badges voll rund.
+ */
+:root {
+  --canvas: #ffffff;
+  --page: #f6f5f4;
+  --surface: #f6f5f4;
+  --surface-soft: #fafaf9;
+  --sunken: #efedea;
+  --hairline: #e5e3df;
+  --hairline-soft: #ede9e4;
+  --hairline-strong: #c8c4be;
+  --ink: #1a1a1a;
+  --charcoal: #37352f;
+  --slate: #5d5b54;
+  --steel: #6f6d67;
+  --stone: #a4a097;
+  --primary: #5645d4;
+  --primary-pressed: #4534b3;
+  --primary-soft: #e6e0f5;
+  --primary-ink: #3a2a99;
+  --on-primary: #ffffff;
+  --success: #1aae39;
+  --success-ink: #0f7a29;
+  --success-soft: #d9f3e1;
+  --error: #e03131;
+  --error-ink: #b42323;
+  --error-soft: #fde0e0;
+  --gold: #f5d75e;
+  --gold-soft: #fef7d6;
+  --gold-ink: #7a5a00;
+  --orange: #dd5b00;
+  --tint-peach: #ffe8d4;
+  --tint-rose: #fde0ec;
+  --tint-mint: #d9f3e1;
+  --tint-lavender: #e6e0f5;
+  --tint-sky: #dcecfa;
+  --tint-yellow: #fef7d6;
+  --tint-yellow-bold: #f9e79f;
+  --tint-ink-peach: #793400;
+  --tint-ink-rose: #a02e6d;
+  --tint-ink-mint: #0f6b28;
+  --tint-ink-lavender: #391c57;
+  --tint-ink-sky: #0b4a85;
+  --shadow-card: 0 4px 12px rgba(15, 15, 15, 0.08);
+  --shadow-lift: 0 24px 48px -8px rgba(15, 15, 15, 0.2);
+  --shadow-modal: 0 16px 48px -8px rgba(15, 15, 15, 0.16);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --canvas: #0f1b38;
+    --page: #070f24;
+    --surface: #0a1530;
+    --surface-soft: #0c1833;
+    --sunken: #0a1530;
+    --hairline: #1f2d52;
+    --hairline-soft: #18254a;
+    --hairline-strong: #33446e;
+    --ink: #f4f3f1;
+    --charcoal: #e6e4e0;
+    --slate: #c4c1ba;
+    --steel: #a4a097;
+    --stone: #7a7870;
+    --primary: #6d5ee8;
+    --primary-pressed: #5645d4;
+    --primary-soft: #241f55;
+    --primary-ink: #c9c0ff;
+    --success: #2fc552;
+    --success-ink: #6ee08a;
+    --success-soft: #0f3320;
+    --error: #ff5c5c;
+    --error-ink: #ff9a9a;
+    --error-soft: #3a1420;
+    --gold: #f5d75e;
+    --gold-soft: #2f2a12;
+    --gold-ink: #f5d75e;
+    --tint-peach: #2e1f1a;
+    --tint-rose: #2e1a2b;
+    --tint-mint: #13302a;
+    --tint-lavender: #221d47;
+    --tint-sky: #142a4a;
+    --tint-yellow: #2c2814;
+    --tint-yellow-bold: #3a3312;
+    --tint-ink-peach: #ffbf8f;
+    --tint-ink-rose: #ff9fd6;
+    --tint-ink-mint: #8be3a5;
+    --tint-ink-lavender: #d6b6f6;
+    --tint-ink-sky: #9ccdf7;
+    --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.28);
+    --shadow-lift: 0 24px 48px -8px rgba(0, 0, 0, 0.55);
+    --shadow-modal: 0 16px 48px -8px rgba(0, 0, 0, 0.5);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --canvas: #0f1b38;
+  --page: #070f24;
+  --surface: #0a1530;
+  --surface-soft: #0c1833;
+  --sunken: #0a1530;
+  --hairline: #1f2d52;
+  --hairline-soft: #18254a;
+  --hairline-strong: #33446e;
+  --ink: #f4f3f1;
+  --charcoal: #e6e4e0;
+  --slate: #c4c1ba;
+  --steel: #a4a097;
+  --stone: #7a7870;
+  --primary: #6d5ee8;
+  --primary-pressed: #5645d4;
+  --primary-soft: #241f55;
+  --primary-ink: #c9c0ff;
+  --success: #2fc552;
+  --success-ink: #6ee08a;
+  --success-soft: #0f3320;
+  --error: #ff5c5c;
+  --error-ink: #ff9a9a;
+  --error-soft: #3a1420;
+  --gold: #f5d75e;
+  --gold-soft: #2f2a12;
+  --gold-ink: #f5d75e;
+  --tint-peach: #2e1f1a;
+  --tint-rose: #2e1a2b;
+  --tint-mint: #13302a;
+  --tint-lavender: #221d47;
+  --tint-sky: #142a4a;
+  --tint-yellow: #2c2814;
+  --tint-yellow-bold: #3a3312;
+  --tint-ink-peach: #ffbf8f;
+  --tint-ink-rose: #ff9fd6;
+  --tint-ink-mint: #8be3a5;
+  --tint-ink-lavender: #d6b6f6;
+  --tint-ink-sky: #9ccdf7;
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.28);
+  --shadow-lift: 0 24px 48px -8px rgba(0, 0, 0, 0.55);
+  --shadow-modal: 0 16px 48px -8px rgba(0, 0, 0, 0.5);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-sans: "Inter Variable", "Inter", -apple-system, system-ui, "Segoe UI", Helvetica, sans-serif;
+
+  --color-canvas: var(--canvas);
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-soft: var(--surface-soft);
+  --color-sunken: var(--sunken);
+  --color-hairline: var(--hairline);
+  --color-hairline-soft: var(--hairline-soft);
+  --color-hairline-strong: var(--hairline-strong);
+  --color-ink: var(--ink);
+  --color-charcoal: var(--charcoal);
+  --color-slate: var(--slate);
+  --color-steel: var(--steel);
+  --color-stone: var(--stone);
+  --color-primary: var(--primary);
+  --color-primary-pressed: var(--primary-pressed);
+  --color-primary-soft: var(--primary-soft);
+  --color-primary-ink: var(--primary-ink);
+  --color-on-primary: var(--on-primary);
+  --color-success: var(--success);
+  --color-success-ink: var(--success-ink);
+  --color-success-soft: var(--success-soft);
+  --color-error: var(--error);
+  --color-error-ink: var(--error-ink);
+  --color-error-soft: var(--error-soft);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-gold-ink: var(--gold-ink);
+  --color-orange: var(--orange);
+  --color-tint-peach: var(--tint-peach);
+  --color-tint-rose: var(--tint-rose);
+  --color-tint-mint: var(--tint-mint);
+  --color-tint-lavender: var(--tint-lavender);
+  --color-tint-sky: var(--tint-sky);
+  --color-tint-yellow: var(--tint-yellow);
+  --color-tint-yellow-bold: var(--tint-yellow-bold);
+  --color-tint-ink-peach: var(--tint-ink-peach);
+  --color-tint-ink-rose: var(--tint-ink-rose);
+  --color-tint-ink-mint: var(--tint-ink-mint);
+  --color-tint-ink-lavender: var(--tint-ink-lavender);
+  --color-tint-ink-sky: var(--tint-ink-sky);
+
+  --radius-btn: 8px;
+  --radius-card: 12px;
+  --radius-deck: 24px;
+
+  --shadow-card: var(--shadow-card);
+  --shadow-lift: var(--shadow-lift);
+  --shadow-modal: var(--shadow-modal);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv05", "cv08", "ss03";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overscroll-behavior-y: none;
+  }
+
+  button {
+    cursor: pointer;
+    font: inherit;
+    color: inherit;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+  }
+}
+
+@utility hyphenate {
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* Taktiles Feedback auf Druck */
+@utility press {
+  transition: transform 120ms ease, background-color 150ms ease, border-color 150ms ease, color 150ms ease, opacity 150ms ease;
+  &:active:not(:disabled) {
+    transform: scale(0.98) translateY(1px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
