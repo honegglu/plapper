@@ -253,7 +253,7 @@ export function Practice() {
   /* ---------- Leerer Lernstapel ---------- */
   if (questions.length === 0) {
     return (
-      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10">
+      <div className="mx-auto flex w-full max-w-md flex-1 flex-col justify-center px-4 py-10">
         <div className="grid h-14 w-14 place-items-center rounded-card bg-tint-lavender text-tint-ink-lavender">
           <Books size={28} />
         </div>
@@ -281,7 +281,7 @@ export function Practice() {
     const goalDone = today >= st.dailyGoal
     const accuracy = Math.round((stats.correct / questions.length) * 100)
     return (
-      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10">
+      <div className="mx-auto flex w-full max-w-md flex-1 flex-col justify-center px-4 py-10">
         <motion.div initial={reduce ? false : { opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ type: 'spring', stiffness: 140, damping: 18 }}>
           <h1 className="text-3xl font-semibold tracking-[-0.03em]">
             {accuracy === 100 ? 'Makellos.' : accuracy >= 70 ? 'Starke Runde.' : 'Gut gekämpft.'}
@@ -349,7 +349,7 @@ export function Practice() {
 
   /* ---------- Frage ---------- */
   return (
-    <div className="mx-auto flex min-h-full max-w-md flex-col px-4 pb-6">
+    <div className="mx-auto flex w-full max-w-md flex-1 flex-col px-4 pb-6">
       <SessionHeader
         onClose={() => go('home')}
         done={qi + (answer ? 1 : 0)}

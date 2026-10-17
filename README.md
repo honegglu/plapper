@@ -46,6 +46,7 @@ npm test             # Logik-Tests (Vitest)
 
 ## Wörter
 
-`src/data/words.json` enthält 209 Einträge (Wort, Artikel, Wortart, Definition, Beispielsatz, Herkunft, Synonyme, Seltenheit 1-3).
+`src/data/words.json` enthält 209 Einträge (Wort, Artikel, Wortart, Aussprache in IPA, Definition, Beispielsatz, Wortherkunft, Synonyme, Seltenheit 1-3).
+Die Aussprache lässt sich zusätzlich über die Sprachausgabe des Geräts vorlesen (Web Speech API).
 Stilangaben wie «gehoben:» am Anfang der Definition werden automatisch als Etikett abgetrennt.
 Die Definitionen sind eigene Formulierungen und wurden nicht aus dem Duden kopiert. Bitte stichprobenartig gegenprüfen.

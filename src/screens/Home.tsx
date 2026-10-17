@@ -48,7 +48,7 @@ export function Home() {
   })
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-10 pt-6 sm:px-6 lg:px-10 lg:pt-10">
+    <div className="mx-auto w-full max-w-5xl px-4 pb-10 pt-6 sm:px-6 lg:px-10 lg:pt-10">
       <header className="flex items-center justify-between gap-4">
         <div>
           <p className="text-sm text-steel">{greeting()}</p>

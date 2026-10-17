@@ -134,7 +134,7 @@ export function Collection() {
   const hidden = (w: Word) => tab === 'all' && !(progress[w.id] && progress[w.id].box > 0) && !query
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-10 pt-6 sm:px-6 lg:px-10 lg:pt-10">
+    <div className="mx-auto w-full max-w-5xl px-4 pb-10 pt-6 sm:px-6 lg:px-10 lg:pt-10">
       <h1 className="text-[28px] font-semibold tracking-[-0.03em] sm:text-4xl">Sammlung</h1>
 
       <div className="no-scrollbar -mx-4 mt-5 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0" role="tablist">

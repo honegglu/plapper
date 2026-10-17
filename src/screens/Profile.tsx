@@ -53,7 +53,7 @@ export function Profile() {
   ]
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-10 pt-6 sm:px-6 lg:px-10 lg:pt-10">
+    <div className="mx-auto w-full max-w-5xl px-4 pb-10 pt-6 sm:px-6 lg:px-10 lg:pt-10">
       <h1 className="text-[28px] font-semibold tracking-[-0.03em] sm:text-4xl">Profil</h1>
 
       <div className="mt-6 grid gap-4 lg:grid-cols-12">

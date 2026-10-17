@@ -56,7 +56,7 @@ function CardFace({ card, flipped, onFlip }: { card: DeckCard; flipped: boolean;
         ) : (
           <motion.div
             key="back"
-            className="no-scrollbar mt-5 flex-1 overflow-y-auto"
+            className="no-scrollbar -mx-1 mt-5 flex-1 overflow-y-auto px-1 pb-6 [mask-image:linear-gradient(to_bottom,black_calc(100%-28px),transparent)]"
             initial={reduce ? false : { opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
             exit={reduce ? undefined : { opacity: 0, y: -8 }}
@@ -134,7 +134,7 @@ export function Discover() {
   if (deck.length === 0) {
     const seen = Object.values(progress).filter((p) => p.box > 0).length
     return (
-      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10 text-center">
+      <div className="mx-auto flex w-full max-w-md flex-1 flex-col justify-center px-4 py-10 text-center">
         <Confetti size={44} className="mx-auto text-primary" />
         <h1 className="mt-4 text-2xl font-semibold tracking-[-0.02em]">Du hast alle {seen} Wörter gesehen.</h1>
         <p className="mt-2 text-slate">Neue Wörter kommen mit dem nächsten Update. Bis dahin: festigen, was im Lernstapel liegt.</p>
@@ -151,7 +151,7 @@ export function Discover() {
   if (finished) {
     const remaining = WORDS.length - Object.values(useStore.getState().progress).filter((p) => p.box > 0).length
     return (
-      <div className="mx-auto flex min-h-full max-w-md flex-col justify-center px-4 py-10">
+      <div className="mx-auto flex w-full max-w-md flex-1 flex-col justify-center px-4 py-10">
         <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ type: 'spring', stiffness: 140, damping: 18 }}>
           <h1 className="text-3xl font-semibold tracking-[-0.03em]">Runde geschafft.</h1>
           <p className="mt-2 text-slate">
@@ -202,7 +202,7 @@ export function Discover() {
   }
 
   return (
-    <div className="mx-auto flex min-h-full max-w-md flex-col px-4 pb-6">
+    <div className="mx-auto flex w-full max-w-md flex-1 flex-col px-4 pb-6">
       <SessionHeader
         onClose={() => go('home')}
         done={index}
@@ -211,8 +211,9 @@ export function Discover() {
         pop={pop}
       />
 
-      <div className="flex flex-1 flex-col justify-center">
-      <div className="relative mt-2" style={{ height: 'min(62dvh, 500px)' }}>
+      <div className="flex flex-1 flex-col">
+      {/* Karte füllt den verfügbaren Platz, damit die Rückseite (mit Wortherkunft) Raum hat */}
+      <div className="relative mt-2 min-h-[380px] flex-1 sm:max-h-[640px]">
         {next && (
           <div className="absolute inset-0 translate-y-3 scale-[0.95] rounded-deck border border-hairline bg-canvas opacity-70" aria-hidden />
         )}

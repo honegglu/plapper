@@ -11,7 +11,9 @@
    "dünkelhaft",
    "überheblich"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[blaˈziːɐ̯t]",
+  "etymology": "Das Wort geht auf französisch blasé zurück, das Partizip von blaser „abstumpfen, übersättigen“. Im 19. Jahrhundert wurde daraus im Deutschen blasiert. Gemeint war ursprünglich jemand, dessen Sinne durch zu viel Genuss so abgestumpft sind, dass ihn nichts mehr reizt. Woher das französische Verb selbst stammt, ist nicht sicher geklärt."
  },
  {
   "word": "larmoyant",
@@ -25,7 +27,9 @@
    "rührselig",
    "wehleidig"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[laʁmo̯aˈjant]",
+  "etymology": "Französisch larmoyant bedeutet „weinend“ und gehört zu larme „Träne“, das auf lateinisch lacrima zurückgeht. Im 18. Jahrhundert war die „comédie larmoyante“, das rührselige Lustspiel, in Frankreich in Mode und wurde auch in Deutschland viel diskutiert. Mit dieser Gattung kam das Wort ins Deutsche, wo es bald abwertend für übertriebene Gefühligkeit stand."
  },
  {
   "word": "konziliant",
@@ -39,7 +43,9 @@
    "umgänglich",
    "entgegenkommend"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[kɔnt͡siˈli̯ant]",
+  "etymology": "Das Wort kam im 19. Jahrhundert aus französisch conciliant „versöhnlich“ ins Deutsche. Dahinter steht lateinisch conciliare „vereinigen, geneigt machen“, abgeleitet von concilium „Versammlung“. Aus demselben Wort stammt das Konzil, die Versammlung von Bischöfen, bei der unterschiedliche Positionen zusammengeführt werden sollen."
  },
  {
   "word": "renitent",
@@ -53,7 +59,9 @@
    "aufsässig",
    "widersetzlich"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ʁeniˈtɛnt]",
+  "etymology": "Lateinisch renitens ist das Partizip von reniti „sich entgegenstemmen, Widerstand leisten“, gebildet aus re- „zurück, dagegen“ und niti „sich stützen, sich stemmen“. Über französisch rénitent gelangte das Wort in der Neuzeit ins Deutsche. Das Bild dahinter ist anschaulich: Ein Renitenter stemmt sich mit aller Kraft gegen das, was man von ihm verlangt."
  },
  {
   "word": "süffisant",
@@ -67,7 +75,9 @@
    "spöttisch",
    "herablassend"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zʏfiˈzant]",
+  "etymology": "Französisch suffisant heißt eigentlich „genügend“ und gehört zu suffire „genügen“, aus lateinisch sufficere. Aus „sich selbst genügend“ entwickelte sich die Bedeutung „selbstgefällig, dünkelhaft“. In diesem Sinn kam das Wort im 18. Jahrhundert ins Deutsche. Verwandt ist das Fachwort Suffizienz für „Hinlänglichkeit“."
  },
  {
   "word": "bigott",
@@ -81,7 +91,9 @@
    "scheinheilig",
    "heuchlerisch"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[biˈɡɔt]",
+  "etymology": "Das Wort kam in der frühen Neuzeit aus französisch bigot „frömmelnd, scheinheilig“ ins Deutsche. Die Herkunft des französischen Wortes ist nicht sicher geklärt. Eine alte, unbewiesene Deutung führt es auf den germanischen Schwur „bî god“ („bei Gott“) zurück, der den Normannen nachgesagt wurde. Auch das englische bigot „Eiferer, Fanatiker“ geht auf dasselbe Wort zurück."
  },
  {
   "word": "servil",
@@ -95,7 +107,9 @@
    "kriecherisch",
    "devot"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zɛʁˈviːl]",
+  "etymology": "Lateinisch servilis bedeutet „sklavisch“ und gehört zu servus „Sklave, Diener“. Im 18. Jahrhundert kam das Wort, wohl über französisch servile, ins Deutsche. Aus derselben Wortfamilie stammen servieren und Service, die das Dienen in einem freundlicheren Licht zeigen. Servil dagegen beschreibt jemanden, der sich wie ein Unfreier unterwirft."
  },
  {
   "word": "sich echauffieren",
@@ -109,7 +123,9 @@
    "sich ereifern",
    "sich empören"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zɪç eʃɔˈfiːʁən]",
+  "etymology": "Französisch s'échauffer heißt „sich erhitzen“ und gehört zu chauffer „wärmen“, das auf lateinisch calefacere „warm machen“ zurückgeht. Im 18. Jahrhundert, als Französisch in vornehmen Kreisen Mode war, kam das Wort ins Deutsche. Verwandt ist der Chauffeur, der ursprünglich der Heizer einer Dampfmaschine war. Wer sich echauffiert, läuft also gewissermaßen heiß."
  },
  {
   "word": "sich mokieren",
@@ -123,7 +139,9 @@
    "spotten",
    "lästern"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zɪç moˈkiːʁən]",
+  "etymology": "Das Wort stammt von französisch se moquer „sich lustig machen, spotten“. Es kam im 17. oder 18. Jahrhundert ins Deutsche, als das Französische die Sprache der feinen Gesellschaft war. Woher das französische Verb selbst kommt, ist nicht sicher geklärt; vermutet wird eine lautmalende Bildung. Verwandt ist das Adjektiv mokant „spöttisch“."
  },
  {
   "word": "Philister",
@@ -137,7 +155,9 @@
    "Spießer",
    "Banause"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[fiˈlɪstɐ]",
+  "etymology": "Die Philister waren im Alten Testament die Erzfeinde der Israeliten. In der Studentensprache des 17. Jahrhunderts wurden so die Bürger genannt, die nicht studierten. Der Überlieferung nach geht das auf eine Leichenpredigt 1693 in Jena zurück, die nach einer tödlichen Schlägerei zwischen Studenten und Bürgern über das Bibelwort „Philister über dir, Simson!“ gehalten wurde. Später wurde Philister zum Schimpfwort für Spießbürger."
  },
  {
   "word": "leutselig",
@@ -151,7 +171,9 @@
    "jovial",
    "gönnerhaft"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈlɔɪ̯tzeːlɪç]",
+  "etymology": "Das Wort geht auf mittelhochdeutsch liutsælic zurück, „den Leuten wohlgefällig, freundlich“. Es verbindet liut „Volk, Leute“ mit sælic, dem Vorläufer von selig. Ursprünglich bezeichnete es einfach Freundlichkeit gegenüber allen. Später verengte sich die Bedeutung auf das wohlwollende, oft etwas herablassende Verhalten Höhergestellter gegenüber einfachen Leuten."
  },
  {
   "word": "prätentiös",
@@ -165,7 +187,9 @@
    "großspurig",
    "hochtrabend"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[pʁɛtɛnˈt͡si̯øːs]",
+  "etymology": "Französisch prétentieux „anspruchsvoll, anmaßend“ gehört zu prétention „Anspruch“, dahinter steht lateinisch praetendere „vorstrecken, vorschützen“. Ins Deutsche kam das Wort im 19. Jahrhundert. Verwandt ist der Prätendent, der Anspruch auf einen Thron erhebt. Wer prätentiös auftritt, beansprucht also mehr Bedeutung, als ihm zukommt."
  },
  {
   "word": "Xanthippe",
@@ -179,7 +203,9 @@
    "Kratzbürste",
    "Hausdrache"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ksanˈtɪpə]",
+  "etymology": "Xanthippe war die Ehefrau des griechischen Philosophen Sokrates im 5. Jahrhundert vor Christus. Ihr Name bedeutet etwa „gelbes Pferd“. Schon antike Schriftsteller wie Xenophon schildern sie als schwierig und streitbar, und daraus entstand ihr Ruf als zänkisches Weib. Ob die echte Xanthippe so war, ist zweifelhaft; Platon zeigt sie als Frau, die im Gefängnis um ihren zum Tode verurteilten Mann klagt."
  },
  {
   "word": "katzbuckeln",
@@ -193,7 +219,9 @@
    "kriechen",
    "sich anbiedern"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈkat͡sbʊkl̩n]",
+  "etymology": "Das Wort ist eine deutsche Bildung aus Katze und Buckel. Der Katzbuckel ist der hochgewölbte Rücken, den eine Katze macht. Wer katzbuckelt, krümmt den Rücken ebenso, nämlich bei einer tiefen, unterwürfigen Verbeugung vor Höhergestellten. Pikant ist, dass die Katze mit diesem Buckel eher droht als sich unterwirft; übernommen wurde nur das Bild des gekrümmten Rückens."
  },
  {
   "word": "Duckmäuser",
@@ -207,7 +235,9 @@
    "Kriecher",
    "Angsthase"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈdʊkmɔɪ̯zɐ]",
+  "etymology": "Die Herkunft ist nicht ganz sicher geklärt. Vermutet wird ein Zusammenhang mit mittelhochdeutsch tockelmūsen „Heimlichkeit treiben, sich verstecken“. Später wurde das Wort an ducken und Maus angelehnt, sodass das anschauliche Bild einer Maus entstand, die sich ängstlich duckt. In dieser Form ist es seit der frühen Neuzeit gebräuchlich."
  },
  {
   "word": "Pharisäer",
@@ -221,7 +251,9 @@
    "Scheinheiliger",
    "Moralapostel"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[faʁiˈzɛːɐ]",
+  "etymology": "Die Pharisäer waren zur Zeit Jesu eine einflussreiche Gruppe im Judentum, die die religiösen Gesetze besonders streng auslegte. Ihr Name geht über griechisch pharisaios auf hebräisch-aramäisch peruschim „die Abgesonderten“ zurück. Im Neuen Testament werden sie als Heuchler kritisiert, und so wurde das Wort im Deutschen zum Begriff für Selbstgerechte. Historisch ist dieses Bild einseitig."
  },
  {
   "word": "hofieren",
@@ -235,7 +267,9 @@
    "umschmeicheln",
    "umgarnen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[hoˈfiːʁən]",
+  "etymology": "Das Wort verbindet das deutsche Hof mit der romanischen Endung -ieren. Schon im Mittelhochdeutschen gab es hovieren, etwa „sich höfisch benehmen, aufwarten, ein Fest geben“. Gemeint war das Verhalten am Fürstenhof, wo man um die Gunst des Herrn warb. Dazu passt die Redewendung „jemandem den Hof machen“."
  },
  {
   "word": "Geck",
@@ -249,7 +283,9 @@
    "Dandy",
    "Modenarr"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ɡɛk]",
+  "etymology": "Mittelniederdeutsch geck bedeutete „Narr, alberner Mensch“, und das niederländische gek heißt bis heute „verrückt“. Der Kölner Karnevalsnarr, der Jeck, ist dasselbe Wort. Woher geck selbst stammt, ist nicht sicher geklärt. Ab der frühen Neuzeit verengte sich die Bedeutung vom allgemeinen Narren zum eitlen Modenarren."
  },
  {
   "word": "sardonisch",
@@ -263,7 +299,9 @@
    "boshaft",
    "zynisch"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zaʁˈdoːnɪʃ]",
+  "etymology": "Das Wort geht über lateinisch sardonius auf griechisch sardonios zurück; schon Homer lässt Odysseus „sardonisch“ lächeln. Antike Autoren erklärten es mit einer giftigen Pflanze aus Sardinien, die das Gesicht zu einem krampfhaften Grinsen verzerren sollte. Ob das die ursprüngliche Bedeutung ist, ist nicht sicher. Die Medizin kennt bis heute den Risus sardonicus, ein krampfhaftes Grinsen."
  },
  {
   "word": "saturiert",
@@ -277,7 +315,9 @@
    "gesättigt",
    "behäbig"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zatuˈʁiːɐ̯t]",
+  "etymology": "Lateinisch saturare heißt „sättigen“ und gehört zu satur „satt“, das mit deutsch satt verwandt ist. Das Verb saturieren kam in der frühen Neuzeit ins Deutsche. Wer saturiert ist, hat nicht nur genug gegessen, sondern ist rundum zufrieden und strebt nach nichts mehr. Auch die Satire geht auf satur zurück, über satura „bunte Mischung“."
  },
  {
   "word": "scharwenzeln",
@@ -291,7 +331,9 @@
    "dienern",
    "schmeicheln"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ʃaʁˈvɛnt͡sl̩n]",
+  "etymology": "Das Verb gehört zu Scharwenzel, einer alten Bezeichnung für den Buben oder Unter im Kartenspiel. Dieses Wort stammt vermutlich aus dem Tschechischen, wohl von červenec „Herzbube“, zu červený „rot“; ganz sicher ist das nicht. Weil der Bube im Spiel vielseitig einsetzbar ist, wurde Scharwenzel zum Wort für einen dienstbeflissenen Diener, der um seinen Herrn herumscharwenzelt."
  },
  {
   "word": "kujonieren",
@@ -305,7 +347,9 @@
    "drangsalieren",
    "piesacken"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kujoˈniːʁən]",
+  "etymology": "Das Verb gehört zu Kujon „Schuft, Feigling“, aus französisch couillon „Dummkopf, Memme“. Dieses geht wie italienisch coglione auf lateinisch coleus „Hodensack“ zurück, ist also ursprünglich ein derbes Schimpfwort. In der frühen Neuzeit kam es ins Deutsche, besonders in die Studenten- und Soldatensprache. Kujonieren hieß, jemanden wie einen Kujon zu behandeln."
  },
  {
   "word": "insinuieren",
@@ -319,7 +363,9 @@
    "andeuten",
    "suggerieren"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ɪnzinuˈiːʁən]",
+  "etymology": "Lateinisch insinuare bedeutet „in den Gewandbausch stecken, eindringen lassen“ und gehört zu sinus „Bausch, Krümmung, Busen“. In der frühen Neuzeit kam es in der Rechtssprache ins Deutsche, wo es zunächst „ein Schriftstück einreichen“ hieß. Später setzte sich die Bedeutung „heimlich einflüstern, unterstellen“ durch. Auch der mathematische Sinus geht auf lateinisch sinus zurück."
  },
  {
   "word": "Hagestolz",
@@ -333,7 +379,9 @@
    "Eigenbrötler",
    "Sonderling"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈhaːɡəʃtɔlt͡s]",
+  "etymology": "Das Wort geht auf althochdeutsch hagustalt zurück, „Besitzer eines Hags“, also eines kleinen, eingehegten Nebenguts. Solch ein Stück Land erhielten oft jüngere Söhne, die den Hof nicht erbten und sich keine Familie leisten konnten. So wurde das Wort zur Bezeichnung für den unverheirateten Mann. Später wurde der zweite Teil an das Wort stolz angelehnt."
  },
  {
   "word": "Sauertopf",
@@ -347,7 +395,9 @@
    "Miesepeter",
    "Muffel"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈzaʊ̯ɐtɔp͡f]",
+  "etymology": "Das Wort ist eine anschauliche deutsche Zusammensetzung aus sauer und Topf. Die genaue Entstehung ist nicht belegt; vermutlich vergleicht es einen verdrießlichen Menschen mit einem Topf, dessen Inhalt sauer geworden ist. Sauer steht dabei, wie in sauer sein, für schlechte Laune. Davon abgeleitet ist das Adjektiv sauertöpfisch für eine griesgrämige Miene."
  },
  {
   "word": "Schwadroneur",
@@ -361,7 +411,9 @@
    "Prahler",
    "Maulheld"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ʃvadʁoˈnøːɐ̯]",
+  "etymology": "Das Wort gehört zu schwadronieren und letztlich zu Schwadron, einer Reitereinheit, aus italienisch squadrone. Schwadronieren bedeutete im 17. und 18. Jahrhundert wohl zunächst, wie ein Reiter mit dem Säbel wild um sich zu schlagen. Daraus wurde „großsprecherisch daherreden“. Die französisch klingende Endung -eur ist eine deutsche Bildung."
  },
  {
   "word": "maliziös",
@@ -375,7 +427,9 @@
    "hämisch",
    "gehässig"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[maliˈt͡si̯øːs]",
+  "etymology": "Französisch malicieux „boshaft“ gehört zu malice „Bosheit“, aus lateinisch malitia, das auf malus „schlecht, böse“ zurückgeht. Ins Deutsche kam das Wort im 18. Jahrhundert. Gemeint ist keine grobe, sondern eine feine, versteckte Bosheit, etwa ein maliziöses Lächeln. Das englische malicious hat denselben Ursprung."
  },
  {
   "word": "indolent",
@@ -389,7 +443,9 @@
    "teilnahmslos",
    "träge"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈɪndolɛnt]",
+  "etymology": "Lateinisch indolens bedeutet „keinen Schmerz empfindend“, aus in- „nicht“ und dolere „Schmerz empfinden“. In der Medizin bezeichnet indolent bis heute etwas Schmerzloses. Übertragen wurde daraus jemand, den nichts berührt, der gleichgültig und träge bleibt. Mit dolere verwandt ist auch die Kondolenz, das Mitgefühl beim Trauerfall."
  },
  {
   "word": "Fatzke",
@@ -403,7 +459,9 @@
    "Schnösel",
    "Wichtigtuer"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈfat͡skə]",
+  "etymology": "Die Herkunft ist nicht sicher geklärt. Das Wort ist seit dem 19. Jahrhundert besonders in der Berliner Umgangssprache verbreitet. Vermutet wird ein Zusammenhang mit älterem fatzen „necken, Possen treiben“ oder Fatz „Spaßmacher“. Die Endung -ke ist im Berlinischen und Niederdeutschen häufig, wie in Steppke."
  },
  {
   "word": "Hasardeur",
@@ -417,7 +475,9 @@
    "Draufgänger",
    "Vabanquespieler"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[hazaʁˈdøːɐ̯]",
+  "etymology": "Das Wort kommt von französisch hasard „Zufall“, ursprünglich der Name eines Würfelspiels. Dieses geht wahrscheinlich auf arabisch az-zahr „der Würfel“ zurück, das über das Spanische ins Französische kam. Ein Hasardeur setzt wie ein Würfelspieler alles auf eine Karte. Verwandt sind das Hasardspiel und das englische hazard „Gefahr“."
  },
  {
   "word": "Hallodri",
@@ -431,7 +491,9 @@
    "Leichtfuß",
    "Filou"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[haˈloːdʁi]",
+  "etymology": "Das Wort stammt aus dem Bairisch-Österreichischen. Die Herkunft ist nicht ganz sicher; meist wird es mit dem Ruf hallo in Verbindung gebracht. Ein Hallodri wäre dann ursprünglich jemand, der lärmend und ausgelassen durchs Leben zieht. Die Endung -i ist typisch für bairische Personenbezeichnungen."
  },
  {
   "word": "Luftikus",
@@ -445,7 +507,9 @@
    "Leichtfuß",
    "Windhund"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈlʊftikʊs]",
+  "etymology": "Das Wort ist eine scherzhafte Bildung aus dem deutschen Luft und der lateinisch klingenden Endung -ikus. Solche Spaßwörter waren besonders in der Studentensprache des 19. Jahrhunderts beliebt, ähnlich wie Pfiffikus. Ein Luftikus ist jemand, der so leicht und unbeständig ist wie die Luft."
  },
  {
   "word": "Schwerenöter",
@@ -459,7 +523,9 @@
    "Frauenheld",
    "Herzensbrecher"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈʃveːʁənøːtɐ]",
+  "etymology": "Die „schwere Not“ war früher eine Bezeichnung für die Fallsucht, also Epilepsie. Man verwendete sie als Fluch, etwa „Dass dich die schwere Not!“. Ein Schwerenöter war ursprünglich jemand, dem man diese Krankheit an den Hals wünschte, also ein Schurke. Mit der Zeit wurde daraus ein augenzwinkerndes Wort für einen charmanten Verführer."
  },
  {
   "word": "Parvenü",
@@ -473,7 +539,9 @@
    "Neureicher",
    "Aufsteiger"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[paʁvəˈnyː]",
+  "etymology": "Französisch parvenu heißt „angekommen, emporgekommen“ und ist das Partizip von parvenir „gelangen“, aus lateinisch pervenire. Im 18. Jahrhundert wurde es zum Spottwort für Aufsteiger; bekannt ist Marivaux’ Roman „Le Paysan parvenu“ (1735). Im selben Jahrhundert kam das Wort ins Deutsche. Die eingedeutschte Schreibung mit ü spiegelt die französische Aussprache."
  },
  {
   "word": "liebedienern",
@@ -487,7 +555,9 @@
    "katzbuckeln",
    "kriechen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈliːbədiːnɐn]",
+  "etymology": "Das Verb ist eine deutsche Bildung zu Liebediener, also jemand, der einem anderen zuliebe, das heißt aus Gefälligkeit, dient. Gemeint ist kein Dienst aus Pflicht, sondern ein beflissenes Bemühen um die Gunst eines Mächtigeren. Davon abgeleitet ist auch das Substantiv Liebedienerei. Wann genau das Verb entstand, ist nicht sicher belegt."
  },
  {
   "word": "sich gerieren",
@@ -501,7 +571,9 @@
    "auftreten als",
    "sich gebärden"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zɪç ɡeˈʁiːʁən]",
+  "etymology": "Das Wort geht auf lateinisch se gerere „sich verhalten, sich benehmen“ zurück; gerere heißt eigentlich „tragen, ausführen“. Über die Gelehrtensprache gelangte es in der Neuzeit ins Deutsche. Aus derselben Wurzel stammen Geste und Gestik, also die Art, wie man sich trägt und gibt. Wer sich als Experte geriert, spielt diese Rolle nach außen."
  },
  {
   "word": "sich spreizen",
@@ -515,7 +587,9 @@
    "sich aufplustern",
    "sich wichtigmachen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zɪç ˈʃpʁaɪ̯t͡sən]",
+  "etymology": "Spreizen ist ein altes deutsches Verb, das vermutlich auf mittelhochdeutsch spriuzen „stützen, stemmen“ zurückgeht. Seine Grundbedeutung ist „auseinanderstrecken“, etwa die Beine oder die Finger. Wer sich spreizt, macht sich im übertragenen Sinn breit und wichtig, ähnlich wie ein Vogel, der sein Gefieder aufstellt. Daraus entwickelte sich auch die Bedeutung „sich zieren“."
  },
  {
   "word": "hoffärtig",
@@ -529,7 +603,9 @@
    "eitel",
    "dünkelhaft"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈhɔfɛʁtɪç]",
+  "etymology": "Das Wort geht auf mittelhochdeutsch hōchvertic zurück, zu hōchvart „Hochmut“, eigentlich „hohe Fahrt“, also ein hochfahrendes Wesen. Durch Lautangleichung wurde aus hochfärtig hoffärtig, mit dem Hof hat es also nichts zu tun. Die Hoffart galt in der christlichen Tradition als eine der sieben Todsünden. Das Wort klingt heute altertümlich und gehoben."
  },
  {
   "word": "unbotmäßig",
@@ -543,7 +619,9 @@
    "widersetzlich",
    "ungehorsam"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈʊnboːtmɛːsɪç]",
+  "etymology": "Das Wort ist die Verneinung von veraltetem botmäßig „untertan, gehorsam“. Dieses gehört zu Bot, einer alten Form von Gebot „Befehl“. Die Botmäßigkeit bezeichnete früher die Herrschaftsgewalt, unter der jemand stand. Wer unbotmäßig ist, verweigert also den Gehorsam gegenüber der Obrigkeit."
  },
  {
   "word": "abgefeimt",
@@ -557,7 +635,9 @@
    "gerissen",
    "skrupellos"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈapɡəfaɪ̯mt]",
+  "etymology": "Das Wort gehört zum alten Feim „Schaum“, verwandt mit englisch foam. Abfeimen hieß „abschäumen“, also etwa Honig oder Wein durch Abschöpfen des Schaums reinigen. Abgefeimt bedeutete zunächst „gereinigt, durch und durch geläutert“. Daraus wurde übertragen „mit allen Wassern gewaschen“, und schließlich die heutige Bedeutung „durchtrieben, gerissen“."
  },
  {
   "word": "Schlawiner",
@@ -571,7 +651,9 @@
    "Gauner",
    "Filou"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ʃlaˈviːnɐ]",
+  "etymology": "Das Wort stammt aus dem österreichischen und süddeutschen Raum und ist eine Nebenform von Slowene. Der Überlieferung nach zogen im 19. Jahrhundert slowenische Wanderhändler durchs Land, denen man nachsagte, beim Handeln besonders geschickt und listig zu sein. So wurde die Herkunftsbezeichnung zum Wort für einen pfiffigen, durchtriebenen Menschen, heute meist mit einem Augenzwinkern."
  },
  {
   "word": "Gernegroß",
@@ -585,7 +667,9 @@
    "Angeber",
    "Möchtegern"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈɡɛʁnəɡʁoːs]",
+  "etymology": "Das Wort ist eine deutsche Zusammenrückung aus „gerne groß (sein)“. Es gehört zu einer Gruppe von Spottwörtern, die aus einem ganzen Ausdruck entstanden sind, wie Taugenichts, Habenichts oder Nimmersatt. Ein Gernegroß ist also jemand, der gern bedeutend wäre, es aber nicht ist. Solche Satzwörter sind im Deutschen seit Langem beliebt."
  },
  {
   "word": "Blaustrumpf",
@@ -598,7 +682,9 @@
    "Intellektuelle",
    "Gelehrte"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈblaʊ̯ʃtʁʊmp͡f]",
+  "etymology": "Das Wort ist eine Lehnübersetzung von englisch bluestocking. Um 1750 trafen sich in London gebildete Frauen und Männer um Elizabeth Montagu zu literarischen Gesprächen. Der Überlieferung nach erschien der Gelehrte Benjamin Stillingfleet dort in einfachen blauen Wollstrümpfen statt in schwarzen Seidenstrümpfen. Später wurde der Name zum Spottwort für gelehrte Frauen und kam um 1800 ins Deutsche."
  },
  {
   "word": "Beckmesser",
@@ -612,7 +698,9 @@
    "Nörgler",
    "Pedant"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈbɛkmɛsɐ]",
+  "etymology": "Sixtus Beckmesser ist eine Figur aus Richard Wagners Oper „Die Meistersinger von Nürnberg“ (1868). Als Stadtschreiber und „Merker“ notiert er jeden Regelverstoß der Sänger und blamiert sich am Ende selbst. In einem Entwurf hieß die Figur Veit Hanslich, eine Anspielung auf den Kritiker Eduard Hanslick. Ein Nürnberger Meistersinger dieses Namens ist für das 16. Jahrhundert überliefert."
  },
  {
   "word": "Kotau",
@@ -626,7 +714,9 @@
    "Unterwerfung",
    "Bückling"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[koˈtaʊ̯]",
+  "etymology": "Das Wort kommt von chinesisch kòutóu „mit dem Kopf (auf den Boden) schlagen“. So hieß die Ehrbezeugung vor dem chinesischen Kaiser, bei der man niederkniete und mehrmals mit der Stirn den Boden berührte. Bekannt ist, dass der britische Gesandte Lord Macartney 1793 diesen Kotau verweigerte. Über englisch kowtow kam das Wort im 19. Jahrhundert ins Deutsche."
  },
  {
   "word": "betulich",
@@ -640,7 +730,9 @@
    "behäbig",
    "fürsorglich"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[bəˈtuːlɪç]",
+  "etymology": "Das Wort gehört zu älterem sich betun „sich viel zu schaffen machen, Umstände machen“. Ein betulicher Mensch ist also einer, der um alles viel Aufhebens macht. Heute klingt betulich eher nach umständlicher Gemächlichkeit. Die genaue Entstehungszeit ist nicht sicher belegt."
  },
  {
   "word": "bärbeißig",
@@ -654,7 +746,9 @@
    "brummig",
    "griesgrämig"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈbɛːɐ̯baɪ̯sɪç]",
+  "etymology": "Das Wort geht auf den Bärenbeißer oder Bärbeißer zurück, einen kräftigen Hund, der früher bei der Bärenjagd und bei Tierhetzen eingesetzt wurde. Er gilt als Vorfahre von Rassen wie dem Boxer. Weil diese Hunde grimmig aussahen und kräftig zubissen, wurde bärbeißig zum Wort für einen mürrischen, unwirschen Menschen."
  },
  {
   "word": "kapriziös",
@@ -668,7 +762,9 @@
    "eigenwillig",
    "wetterwendisch"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kapʁiˈt͡si̯øːs]",
+  "etymology": "Französisch capricieux „launenhaft“ gehört zu caprice „Laune“, aus italienisch capriccio. Dessen Herkunft ist nicht sicher geklärt. Oft wird es auf capo „Kopf“ und riccio „Igel“ zurückgeführt, also Haare, die sich vor Schreck sträuben; später wurde es an capra „Ziege“ angelehnt, deren Sprünge unberechenbar sind. In der Musik lebt das Wort im Capriccio fort."
  },
  {
   "word": "lavieren",
@@ -682,7 +778,9 @@
    "sich durchwinden",
    "manövrieren"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[laˈviːʁən]",
+  "etymology": "Das Wort stammt aus der Seemannssprache: Niederländisch laveren bedeutet „gegen den Wind kreuzen“ und gehört zu loef „Luv“, der dem Wind zugewandten Seite. Ein Schiff, das laviert, kommt im Zickzack voran, ohne direkt aufs Ziel zuzusteuern. In der frühen Neuzeit kam das Wort ins Deutsche und wurde bald übertragen gebraucht."
  },
  {
   "word": "willfährig",
@@ -696,7 +794,9 @@
    "dienstbeflissen",
    "hörig"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈvɪlfɛːʁɪç]",
+  "etymology": "Das Adjektiv gehört zu willfahren „jemandes Wunsch erfüllen“. Dieses geht wohl auf eine mittelhochdeutsche Wendung zurück, die etwa „auf jemandes Willen achten“ bedeutete. Der zweite Teil gehört dabei vermutlich nicht zu fahren, sondern zu mittelhochdeutsch vāren „trachten, achten auf“. Heute hat willfährig einen abwertenden Klang von allzu großer Gefügigkeit."
  },
  {
   "word": "subaltern",
@@ -710,7 +810,9 @@
    "unselbständig",
    "devot"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zʊpʔalˈtɛʁn]",
+  "etymology": "Lateinisch subalternus bedeutet „untergeordnet“ und ist aus sub „unter“ und alternus „abwechselnd“, zu alter „der andere“, gebildet. Über die Amts- und Militärsprache kam das Wort in der frühen Neuzeit ins Deutsche. Subalternoffiziere waren die unteren Offiziersränge wie Leutnants. Später bekam das Wort die abwertende Bedeutung „unselbständig, unterwürfig“."
  },
  {
   "word": "Megäre",
@@ -724,7 +826,9 @@
    "Xanthippe",
    "Hausdrache"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[meˈɡɛːʁə]",
+  "etymology": "Megaira war in der griechischen Mythologie eine der drei Erinyen, der Rachegöttinnen, neben Alekto und Tisiphone. Ihr Name bedeutet etwa „die Missgönnende“, zu griechisch megairein „missgönnen“. Die Römer nannten diese Göttinnen Furien. Über das Lateinische wurde ihr Name im Deutschen zum Schimpfwort für eine wütende, zänkische Frau."
  },
  {
   "word": "bräsig",
@@ -738,7 +842,9 @@
    "selbstgefällig",
    "träge"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈbʁɛːzɪç]",
+  "etymology": "Das Wort stammt aus dem Niederdeutschen; seine genaue Herkunft ist nicht sicher geklärt. Bekannt wurde es durch den Onkel Zacharias Bräsig, eine gemütlich-behäbige Figur in Fritz Reuters plattdeutschem Roman „Ut mine Stromtid“ (1862 bis 1864). Ob das Adjektiv auf diese Figur zurückgeht oder Reuter ein vorhandenes Wort als Namen nutzte, ist umstritten."
  },
  {
   "word": "antichambrieren",
@@ -752,7 +858,9 @@
    "dienern",
    "bitten"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[antiʃɑ̃ˈbʁiːʁən]",
+  "etymology": "Das Verb ist eine deutsche Bildung zu französisch antichambre „Vorzimmer“, aus italienisch anticamera. An Fürstenhöfen mussten Bittsteller oft lange im Vorzimmer warten, bis sie vorgelassen wurden. Wer antichambrierte, harrte also geduldig und demütig vor der Tür der Mächtigen aus. Das Wort kam im 18. Jahrhundert auf."
  },
  {
   "word": "obstinat",
@@ -766,7 +874,9 @@
    "stur",
    "halsstarrig"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ɔpstiˈnaːt]",
+  "etymology": "Lateinisch obstinatus „hartnäckig, entschlossen“ ist das Partizip von obstinare „auf etwas beharren“. Über die Gelehrtensprache kam das Wort in der Neuzeit ins Deutsche. Aus derselben Wurzel stammt das italienische ostinato, das in der Musik eine sich hartnäckig wiederholende Figur bezeichnet, etwa den Basso ostinato."
  },
  {
   "word": "sekkieren",
@@ -780,7 +890,9 @@
    "nerven",
    "piesacken"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[zɛˈkiːʁən]",
+  "etymology": "Italienisch seccare heißt eigentlich „austrocknen“ und gehört zu secco „trocken“, aus lateinisch siccus. Im übertragenen Sinn bedeutet es „belästigen, langweilen“, so wie man jemandem gewissermaßen das Leben austrocknet. Durch die engen Kontakte zu Italien in der Habsburgermonarchie gelangte das Wort ins österreichische Deutsch."
  },
  {
   "word": "vexieren",
@@ -794,7 +906,9 @@
    "foppen",
    "narren"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[vɛˈksiːʁən]",
+  "etymology": "Lateinisch vexare bedeutet „heftig bewegen, plagen, quälen“. In der frühen Neuzeit kam das Wort ins Deutsche, wo es neben „quälen“ bald auch „necken, foppen“ bedeutete. Davon zeugen das Vexierbild, ein Suchbild mit versteckter Figur, und der Vexierspiegel, der sein Gegenüber verzerrt zeigt."
  },
  {
   "word": "insolent",
@@ -808,7 +922,9 @@
    "frech",
    "anmaßend"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈɪnzolɛnt]",
+  "etymology": "Lateinisch insolens bedeutet eigentlich „ungewohnt“, aus in- „nicht“ und solere „gewohnt sein“. Daraus entwickelte sich die Bedeutung „übermäßig, maßlos“ und schließlich „anmaßend, überheblich“. Über das Französische kam das Wort in der Neuzeit ins Deutsche. Wer insolent ist, verstößt also gegen das gewohnte Maß an Höflichkeit."
  },
  {
   "word": "poussieren",
@@ -822,7 +938,9 @@
    "turteln",
    "anbändeln"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[pʊˈsiːʁən]",
+  "etymology": "Das Wort kommt von französisch pousser „stoßen, vorantreiben“, das auf lateinisch pulsare „stoßen, schlagen“ zurückgeht, verwandt mit Puls. Im Deutschen nahm es neben „fördern, voranbringen“ die Bedeutung „umwerben, flirten“ an, vielleicht weil man eine Liebschaft „vorantreibt“. Im Französischen hat pousser diese Bedeutung nicht."
  },
  {
   "word": "Bramarbas",
@@ -836,7 +954,9 @@
    "Aufschneider",
    "Maulheld"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[bʁaˈmaʁbas]",
+  "etymology": "Bramarbas ist der Name eines prahlerischen Soldaten in der deutschen Literatur des frühen 18. Jahrhunderts. Bekannt wurde er durch die deutsche Fassung von Ludvig Holbergs Komödie „Jacob von Tyboe“, die den Titel „Bramarbas oder Der großsprecherische Offizier“ trug. Der Name wird meist mit spanisch bramar „brüllen“ in Verbindung gebracht. Davon abgeleitet ist bramarbasieren „aufschneiden“."
  },
  {
   "word": "Libertin",
@@ -850,7 +970,9 @@
    "Wüstling",
    "Freigeist"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[libɛʁˈtɛ̃ː]",
+  "etymology": "Französisch libertin geht auf lateinisch libertinus „Freigelassener“ zurück, zu libertas „Freiheit“. Im Frankreich des 17. Jahrhunderts nannte man so Freigeister, die sich von kirchlichen Lehren lösten. Weil man ihnen auch lockere Sitten nachsagte, verschob sich die Bedeutung zum ausschweifenden Lebemann. Ins Deutsche kam das Wort im 17. oder 18. Jahrhundert."
  },
  {
   "word": "Roué",
@@ -864,7 +986,9 @@
    "Lebemann",
    "Lüstling"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ʁuˈeː]",
+  "etymology": "Französisch roué bedeutet „gerädert“ und gehört zu roue „Rad“. Der Herzog Philipp von Orléans, der von 1715 bis 1723 für den jungen Ludwig XV. regierte, soll seine ausschweifenden Zechgenossen so genannt haben: Sie seien Menschen, die es verdienten, gerädert zu werden. Von dieser Hofgesellschaft aus wurde roué zum Wort für einen gewissenlosen Lebemann."
  },
  {
   "word": "Sybarit",
@@ -878,7 +1002,9 @@
    "Schlemmer",
    "Genussmensch"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[zybaˈʁiːt]",
+  "etymology": "Sybaris war eine griechische Stadt in Süditalien, gegründet im 8. Jahrhundert vor Christus. Ihre Bewohner galten in der Antike als sprichwörtlich reich und verwöhnt; um ihren Luxus rankten sich viele Anekdoten. 510 vor Christus wurde Sybaris von der Nachbarstadt Kroton zerstört. Über das Lateinische und Französische wurde der Name der Bewohner zum Wort für einen Genießer."
  },
  {
   "word": "Adabei",
@@ -892,7 +1018,9 @@
    "Partygänger",
    "Gschaftlhuber"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈaːdabaɪ̯]",
+  "etymology": "Das Wort stammt aus dem Bairisch-Österreichischen und ist aus „a dabei“, also „auch dabei“, zusammengezogen. Ein Adabei ist jemand, der auf jedem Fest und bei jedem Ereignis dabei sein will, um gesehen zu werden. In Österreich trug auch eine bekannte Gesellschaftskolumne der Kronen Zeitung diesen Namen."
  },
  {
   "word": "Fant",
@@ -906,7 +1034,9 @@
    "Milchbart",
    "Jüngling"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[fant]",
+  "etymology": "Italienisch fante bedeutete „Knabe, Bursche, Diener“ und ist eine Kurzform von infante, aus lateinisch infans „kleines Kind“, eigentlich „der noch nicht sprechen kann“. In der frühen Neuzeit kam das Wort ins Deutsche. Verwandt ist die Infanterie, ursprünglich die Truppe der Fußknechte. Heute ist Fant veraltet und abwertend."
  },
  {
   "word": "mokant",
@@ -920,7 +1050,9 @@
    "ironisch",
    "süffisant"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[moˈkant]",
+  "etymology": "Französisch moquant ist das Partizip Präsens von se moquer „sich lustig machen“, bedeutet also „spottend“. Woher das französische Verb stammt, ist nicht sicher geklärt. Ins Deutsche kam es in der Zeit, als Französisch die Sprache der feinen Gesellschaft war. Eng verwandt ist sich mokieren, das dasselbe französische Verb zur Grundlage hat."
  },
  {
   "word": "chevaleresk",
@@ -934,7 +1066,9 @@
    "galant",
    "edelmütig"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ʃəvaləˈʁɛsk]",
+  "etymology": "Französisch chevaleresque „ritterlich“ gehört zu chevalier „Ritter“ und geht auf italienisch cavalleresco zurück. Alle diese Wörter stammen letztlich von lateinisch caballus „Pferd“, denn der Ritter war der Reiter. Verwandt ist der Kavalier, der ebenfalls vom Reiter zum höflichen Herrn wurde. Ins Deutsche kam chevaleresk wohl im 19. Jahrhundert."
  },
  {
   "word": "finassieren",
@@ -948,7 +1082,9 @@
    "taktieren",
    "Ränke schmieden"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[finaˈsiːʁən]",
+  "etymology": "Französisch finasser „Kniffe anwenden, schlau taktieren“ gehört zu fin „fein, schlau, listig“. Verwandt ist die Finesse, die feine Raffinesse. Ins Deutsche kam das Verb, als Französisch die Sprache der Diplomatie und der Höfe war. Wer finassiert, nutzt also seine Feinheit und Schläue, allerdings mit einem Beigeschmack von Trickserei."
  },
  {
   "word": "barmen",
@@ -962,7 +1098,9 @@
    "klagen",
    "lamentieren"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈbaʁmən]",
+  "etymology": "Das Wort stammt aus dem Niederdeutschen und ist mit erbarmen verwandt. Dieses geht auf althochdeutsch irbarmēn zurück, das wohl als Nachbildung von lateinisch misereri „sich erbarmen“ entstand. Während erbarmen das Mitleid mit anderen beschreibt, bezeichnet barmen das Jammern über das eigene Leid. Das Wort ist vor allem in Norddeutschland gebräuchlich."
  },
  {
   "word": "Schlemihl",
@@ -976,7 +1114,9 @@
    "Unglücksrabe",
    "Tollpatsch"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ʃleˈmiːl]",
+  "etymology": "Das Wort stammt aus dem Jiddischen; seine weitere Herkunft ist nicht sicher geklärt. Vermutet wird ein Zusammenhang mit dem biblischen Namen Schelumiel. Bekannt wurde es durch Adelbert von Chamissos Erzählung „Peter Schlemihls wundersame Geschichte“ (1814), in der ein Mann seinen Schatten verkauft und dadurch ins Unglück gerät. So wurde Schlemihl zum Inbegriff des Pechvogels."
  },
  {
   "word": "apodiktisch",
@@ -990,7 +1130,9 @@
    "kategorisch",
    "endgültig"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[apoˈdɪktɪʃ]",
+  "etymology": "Das Wort geht auf griechisch apodeiktikós „beweiskräftig“ zurück, abgeleitet von apodeiknýnai „aufzeigen, beweisen“. Über lateinisch apodicticus gelangte es als Fachwort der Logik ins Deutsche. Bei Kant bezeichnet ein apodiktisches Urteil eine Aussage, die notwendig gilt. Im Alltag wurde daraus der Ton dessen, der keinen Widerspruch duldet."
  },
  {
   "word": "Menetekel",
@@ -1004,7 +1146,9 @@
    "Vorzeichen",
    "Omen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[meneˈteːkl̩]",
+  "etymology": "Der Ausdruck stammt aus dem Buch Daniel im Alten Testament. Beim Gelage des babylonischen Königs Belsazar schreibt eine geisterhafte Hand die aramäischen Worte „mene mene tekel u-parsin“ an die Wand. Daniel deutet sie als Ankündigung des Endes: gezählt, gewogen, geteilt. Durch Luthers Bibelübersetzung bekannt geworden, wurde das Wort zum Sinnbild des Warnzeichens."
  },
  {
   "word": "Pyrrhussieg",
@@ -1017,7 +1161,9 @@
    "Scheinsieg",
    "teuer erkaufter Erfolg"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈpʏʁʊsˌziːk]",
+  "etymology": "Der Begriff erinnert an König Pyrrhus von Epirus, der 280 und 279 v. Chr. die Römer bei Herakleia und Asculum besiegte. Seine eigenen Verluste waren jedoch so schwer, dass er laut Plutarch sinngemäß sagte: „Noch ein solcher Sieg, und wir sind verloren.“ Sein Name wurde sprichwörtlich für Erfolge, die mehr kosten, als sie nützen."
  },
  {
   "word": "konterkarieren",
@@ -1031,7 +1177,9 @@
    "hintertreiben",
    "zunichtemachen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[kɔntɐkaˈʁiːʁən]",
+  "etymology": "Das Verb ist aus französisch contrecarrer „entgegenwirken, durchkreuzen“ entlehnt. Darin steckt contre „gegen“, das auf lateinisch contra zurückgeht, wie auch in Konter und kontern. Der zweite Teil ist nicht ganz sicher gedeutet; vermutlich gehört er zu altfranzösisch carre „Seite, Kante“. Im Deutschen ist das Wort vor allem bildungssprachlich und in der Politik gebräuchlich."
  },
  {
   "word": "subsumieren",
@@ -1045,7 +1193,9 @@
    "zusammenfassen",
    "einordnen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zʊpzuˈmiːʁən]",
+  "etymology": "Das Wort ist eine neulateinische Bildung aus sub „unter“ und sumere „nehmen“, wörtlich also „darunternehmen“. Es stammt aus der Fachsprache der Logik und war spätestens im 18. Jahrhundert im Deutschen geläufig, etwa bei Kant. In der Rechtswissenschaft ist die Subsumtion zentral: Ein konkreter Sachverhalt wird unter eine allgemeine Rechtsnorm gestellt und geprüft, ob er ihre Merkmale erfüllt."
  },
  {
   "word": "kolportieren",
@@ -1059,7 +1209,9 @@
    "herumerzählen",
    "weitertragen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[kɔlpɔʁˈtiːʁən]",
+  "etymology": "Das Wort kommt von französisch colporter „hausieren“, das wohl an porter à col „am Hals tragen“ angelehnt ist. Kolporteure waren Wanderhändler, die ihre Ware in einem Kasten vor der Brust trugen, oft billige Hefte und Kalender; daher stammt auch der Kolportageroman. Vom Weitertragen der Waren ging die Bedeutung auf das Weitertragen von Nachrichten und Gerüchten über."
  },
  {
   "word": "Epigone",
@@ -1073,7 +1225,9 @@
    "Imitator",
    "Nachfolger"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[epiˈɡoːnə]",
+  "etymology": "Griechisch epígonos bedeutet „Nachgeborener“. In der Sage hießen so die Söhne der Sieben gegen Theben, die das Unternehmen ihrer gescheiterten Väter Jahre später vollendeten. Abwertend im heutigen Sinn wurde das Wort im 19. Jahrhundert, besonders durch Karl Immermanns Roman „Die Epigonen“ (1836) über eine Generation, die nur noch vom Erbe der Großen zehrt."
  },
  {
   "word": "Sermon",
@@ -1087,7 +1241,9 @@
    "Predigt",
    "Tirade"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zɛʁˈmoːn]",
+  "etymology": "Lateinisch sermo, Genitiv sermonis, bedeutet „Gespräch, Rede“. Über altfranzösisch sermon gelangte das Wort schon ins Mittelhochdeutsche, wo sermōn eine Rede oder Predigt bezeichnete. Später verschob sich die Bedeutung ins Spöttische: Aus der Predigt wurde die langatmige Strafpredigt und schließlich jedes ermüdende Gerede."
  },
  {
   "word": "Ultima Ratio",
@@ -1100,7 +1256,9 @@
    "letztes Mittel",
    "letzter Ausweg"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈʊltima ˈʁaːt͡si̯o]",
+  "etymology": "Lateinisch ultima ratio heißt wörtlich „letzte Vernunft“ oder „letzte Berechnung“, gemeint ist das letzte Mittel. Berühmt wurde die Formel als Inschrift auf Kanonen: Ludwig XIV. ließ „Ultima ratio regum“ („das letzte Mittel der Könige“) auf französische Geschütze gießen, Friedrich der Große später „Ultima ratio regis“ auf preußische. Heute steht der Ausdruck für den letzten Ausweg."
  },
  {
   "word": "Antagonismus",
@@ -1114,7 +1272,9 @@
    "Widerstreit",
    "Feindschaft"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[antaɡoˈnɪsmʊs]",
+  "etymology": "Das Wort geht auf griechisch antagṓnisma „Widerstreit“ zurück, zu antagōnízesthai „gegen jemanden kämpfen“. Darin steckt agṓn „Wettkampf“, das auch in Agonie und Protagonist erscheint. Im 18. Jahrhundert verwendete Kant den Begriff für den Widerstreit der Menschen in der Gesellschaft, den er als Antrieb der geschichtlichen Entwicklung sah."
  },
  {
   "word": "Bonmot",
@@ -1128,7 +1288,9 @@
    "Aperçu",
    "geistreicher Ausspruch"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[bõˈmoː]",
+  "etymology": "Französisch bon mot heißt „gutes Wort“; mot geht auf spätlateinisch muttum „Muckser, Laut“ zurück. Spätestens im 18. Jahrhundert, als die französische Salonkultur auch in Deutschland Vorbild war, wurde das Wort übernommen. Ein treffendes Bonmot galt als Ausweis von Geist und Bildung und konnte in der Gesellschaft mehr Eindruck machen als eine lange Rede."
  },
  {
   "word": "Affront",
@@ -1142,7 +1304,9 @@
    "Kränkung",
    "Beleidigung"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[aˈfʁõː]",
+  "etymology": "Das Wort kommt aus dem Französischen, wo affronter „jemandem die Stirn bieten“ bedeutet; zugrunde liegt lateinisch frons „Stirn“. Ein Affront war also ursprünglich eine offene Herausforderung von Angesicht zu Angesicht. Ins Deutsche gelangte das Wort in der frühen Neuzeit, als Französisch die Sprache der Höfe und der Diplomatie war. Verwandt sind Front und Konfrontation."
  },
  {
   "word": "Hegemonie",
@@ -1156,7 +1320,9 @@
    "Vormachtstellung",
    "Dominanz"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[heɡemoˈniː]",
+  "etymology": "Griechisch hēgemonía bedeutet „Führung, Oberbefehl“ und gehört zu hēgemṓn „Anführer“. Im antiken Griechenland bezeichnete es die Führungsrolle eines Stadtstaates in einem Bündnis, etwa Athens im Attischen Seebund. Im 19. Jahrhundert wurde das Wort in der deutschen Politik geläufig, etwa im Ringen zwischen Preußen und Österreich um die Vorherrschaft in Deutschland."
  },
  {
   "word": "Persona non grata",
@@ -1169,7 +1335,9 @@
    "unerwünschte Person",
    "Unperson"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[pɛʁˈzoːna noːn ˈɡʁaːta]",
+  "etymology": "Der lateinische Ausdruck bedeutet „nicht genehme Person“. Persona bezeichnete ursprünglich die Maske des Schauspielers, dann dessen Rolle und schließlich den Menschen selbst. In der Diplomatie ist die Formel ein festes Verfahren: Nach dem Wiener Übereinkommen von 1961 kann ein Staat einen Diplomaten ohne Begründung zur Persona non grata erklären, worauf der Entsendestaat ihn abberufen muss."
  },
  {
   "word": "potemkinsche Dörfer",
@@ -1183,7 +1351,9 @@
    "Fassade",
    "Täuschung"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[poˈtɛmkɪnʃə ˈdœʁfɐ]",
+  "etymology": "Die Wendung geht auf Fürst Grigori Potjomkin zurück, den Günstling der Zarin Katharina II. Bei ihrer Reise auf die Krim 1787 soll er entlang der Route Attrappen blühender Dörfer errichtet haben. Diese Geschichte verbreitete vor allem der sächsische Diplomat Georg von Helbig; Historiker halten sie für stark übertrieben. Die Redensart setzte sich trotzdem durch."
  },
  {
   "word": "den Rubikon überschreiten",
@@ -1196,7 +1366,9 @@
    "die Brücken hinter sich abbrechen",
    "unumkehrbar entscheiden"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[deːn ˈʁuːbikɔn yːbɐˈʃʁaɪ̯tən]",
+  "etymology": "Der Rubikon war ein kleiner Fluss, der die Provinz Gallia cisalpina vom römischen Kernland Italien trennte. Kein Statthalter durfte ihn mit Truppen überqueren. Als Caesar es im Januar 49 v. Chr. dennoch tat, löste er den Bürgerkrieg aus; dabei soll er „Alea iacta est“ („Der Würfel ist gefallen“) gesagt haben. Welcher heutige Fluss der Rubikon war, ist nicht sicher geklärt."
  },
  {
   "word": "sakrosankt",
@@ -1210,7 +1382,9 @@
    "tabu",
    "heilig"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zakʁoˈzaŋkt]",
+  "etymology": "Lateinisch sacrosanctus setzt sich aus sacro „durch eine heilige Handlung“ und sanctus „geweiht, unverletzlich“ zusammen. Im alten Rom galten die Volkstribunen als sacrosancti: Wer sie angriff, war den Göttern verfallen und durfte straflos getötet werden. Aus dieser religiös-rechtlichen Unantastbarkeit wurde im Deutschen die übertragene Bedeutung „über jede Kritik erhaben“."
  },
  {
   "word": "tendenziös",
@@ -1224,7 +1398,9 @@
    "einseitig",
    "voreingenommen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[tɛndɛnˈt͡si̯øːs]",
+  "etymology": "Das Adjektiv kam im 19. Jahrhundert nach dem Vorbild von französisch tendancieux ins Deutsche. Zugrunde liegt französisch tendance „Neigung, Richtung“, das wie das deutsche Tendenz auf lateinisch tendere „spannen, sich nach etwas ausrichten“ zurückgeht. Tendenziös ist also eine Darstellung, die sich absichtlich in eine Richtung neigt und eine Seite begünstigt."
  },
  {
   "word": "desavouieren",
@@ -1238,7 +1414,9 @@
    "brüskieren",
    "verleugnen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[dɛsavuˈiːʁən]",
+  "etymology": "Französisch désavouer „verleugnen, nicht anerkennen“ ist eine Bildung aus der verneinenden Vorsilbe dés- und avouer „anerkennen, eingestehen“. Avouer geht auf lateinisch advocare „herbeirufen“ zurück, das auch in Advokat steckt. Wie viele Begriffe der Diplomatie kam das Wort aus dem Französischen ins Deutsche: Wer einen Gesandten desavouiert, erklärt öffentlich, dessen Handeln nicht mitzutragen."
  },
  {
   "word": "Fait accompli",
@@ -1251,7 +1429,9 @@
    "vollendete Tatsache",
    "Tatsache"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[fɛt akõˈpliː]",
+  "etymology": "Französisch fait accompli bedeutet „vollendete Tatsache“. Fait geht auf lateinisch factum „das Getane“ zurück, accompli auf accomplir „vollenden“. Besonders in der Diplomatie des 19. Jahrhunderts wurde der Ausdruck geläufig, etwa für eine Politik, die andere Mächte vor vollendete Tatsachen stellt, statt vorher zu verhandeln. Die deutsche Wendung „vor vollendete Tatsachen stellen“ entspricht ihm genau."
  },
  {
   "word": "Diktum",
@@ -1265,7 +1445,9 @@
    "Sentenz",
    "Zitat"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈdɪktʊm]",
+  "etymology": "Lateinisch dictum ist das Partizip von dicere „sagen“ und bedeutet „das Gesagte, der Ausspruch“. Zur selben Wortfamilie gehören Diktat, Diktion, diktieren und Diktator. Als gelehrtes Fremdwort meint Diktum im Deutschen einen gewichtigen Ausspruch, der oft zitiert wird, etwa das berühmte Diktum eines Philosophen oder Staatsmanns."
  },
  {
   "word": "Aporie",
@@ -1279,7 +1461,9 @@
    "Dilemma",
    "Sackgasse"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[apoˈʁiː]",
+  "etymology": "Griechisch aporía bedeutet „Ausweglosigkeit, Ratlosigkeit“, gebildet aus a- „nicht“ und póros „Durchgang, Weg, Furt“. Eine Aporie ist also wörtlich eine Lage ohne Durchgang. In Platons frühen Dialogen führt Sokrates seine Gesprächspartner oft in eine solche Aporie: Sie erkennen, dass sie nicht wissen, was sie zu wissen glaubten. Daraus wurde der philosophische Fachbegriff."
  },
  {
   "word": "Fanal",
@@ -1293,7 +1477,9 @@
    "Startschuss",
    "Weckruf"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[faˈnaːl]",
+  "etymology": "Das Wort kam über französisch fanal „Leuchtfeuer, Schiffslaterne“ ins Deutsche. Dahinter steht italienisch fanale, das letztlich auf griechisch phanós „Leuchte, Fackel“ zurückgeht, zu phaínein „scheinen, sichtbar machen“. Ursprünglich war ein Fanal also ein weithin sichtbares Signalfeuer. Daraus entwickelte sich die übertragene Bedeutung „aufrüttelndes Zeichen für einen Umbruch“."
  },
  {
   "word": "Sophismus",
@@ -1307,7 +1493,9 @@
    "Spitzfindigkeit",
    "Scheinargument"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zoˈfɪsmʊs]",
+  "etymology": "Griechisch sóphisma bedeutet „Kunstgriff, ausgeklügelter Schluss“ und gehört zu sophízesthai „ausklügeln“, letztlich zu sophós „weise“. Das Wort ist eng mit den Sophisten verbunden, Wanderlehrern im Griechenland des 5. Jahrhunderts v. Chr., die gegen Bezahlung Redekunst lehrten. Platon warf ihnen vor, mit Scheinargumenten zu täuschen; so wurde aus der „Weisheit“ der Trugschluss."
  },
  {
   "word": "Eklektizismus",
@@ -1321,7 +1509,9 @@
    "Sammelsurium",
    "Vermischung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[eklɛktiˈt͡sɪsmʊs]",
+  "etymology": "Grundlage ist griechisch eklégein „auswählen“, davon eklektikós „auswählend“. In der Antike nannte man Philosophen Eklektiker, die sich aus verschiedenen Schulen das jeweils Überzeugende heraussuchten. Im 19. Jahrhundert wurde der Begriff auf Kunst und Architektur übertragen, die Stile vergangener Epochen mischten, und bekam den abwertenden Beiklang des Unschöpferischen."
  },
  {
   "word": "Usance",
@@ -1335,7 +1525,9 @@
    "Brauch",
    "Gewohnheit"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[yˈzãːs]",
+  "etymology": "Französisch usance „Brauch, Gepflogenheit“ gehört zu user „gebrauchen“ und geht auf lateinisch usus „Gebrauch“ zurück. Das Wort wurde vor allem in der Kaufmannssprache übernommen, wo es die im Handel üblichen Regeln bezeichnet, etwa Zahlungsfristen oder Maße. In der Schweiz ist auch die eingedeutschte Form Usanz gebräuchlich."
  },
  {
   "word": "Kakofonie",
@@ -1349,7 +1541,9 @@
    "Dissonanz",
    "Stimmengewirr"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kakofoˈniː]",
+  "etymology": "Griechisch kakophōnía setzt sich aus kakós „schlecht“ und phōnḗ „Stimme, Laut“ zusammen; das Gegenstück ist die Euphonie, der Wohlklang. Ursprünglich ein Begriff der Rhetorik und Musik für schlecht klingende Laut- oder Tonfolgen, wird das Wort heute auch übertragen für ein wirres Durcheinander von Stimmen und Meinungen gebraucht. Die Schreibung mit f ist seit der Rechtschreibreform zulässig."
  },
  {
   "word": "Petitesse",
@@ -1363,7 +1557,9 @@
    "Lappalie",
    "Bagatelle"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[pətiˈtɛs]",
+  "etymology": "Französisch petitesse „Kleinheit“ ist von petit „klein“ abgeleitet. Neben der körperlichen Kleinheit bezeichnete es bald auch Kleinlichkeit und Geringfügigkeit. Im Deutschen ist das Wort ein gehobenes Fremdwort für eine Nebensächlichkeit, über die man großzügig hinwegsehen kann. Die Herkunft von petit selbst ist nicht sicher geklärt; vermutet wird ein lautmalendes Wort für Kleines."
  },
  {
   "word": "Hermeneutik",
@@ -1377,7 +1573,9 @@
    "Interpretationskunst",
    "Deutung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[hɛʁmeˈnɔɪ̯tɪk]",
+  "etymology": "Griechisch hermēneúein heißt „auslegen, erklären, übersetzen“. Als Fachbegriff verbreitete sich das Wort im 17. Jahrhundert, unter anderem durch den Straßburger Theologen Johann Conrad Dannhauer, dessen „Hermeneutica sacra“ zur Bibelauslegung 1654 erschien. Schleiermacher, Dilthey und Gadamer machten daraus eine allgemeine Lehre vom Verstehen. Die beliebte Verbindung mit dem Götterboten Hermes ist sprachgeschichtlich nicht gesichert."
  },
  {
   "word": "Syllogismus",
@@ -1391,7 +1589,9 @@
    "Vernunftschluss",
    "Deduktion"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zʏloˈɡɪsmʊs]",
+  "etymology": "Griechisch syllogismós bedeutet „Zusammenrechnung, Schluss“, gebildet aus syn „zusammen“ und logízesthai „rechnen, erwägen“. Aristoteles machte den Syllogismus zum Kern seiner Logik. Das klassische Schulbeispiel lautet: Alle Menschen sind sterblich, Sokrates ist ein Mensch, also ist Sokrates sterblich. Über das Lateinische blieb der Begriff bis heute ein Grundwort der Logik."
  },
  {
   "word": "Topos",
@@ -1405,7 +1605,9 @@
    "Gemeinplatz",
    "Klischee"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈtɔpɔs]",
+  "etymology": "Griechisch tópos heißt „Ort, Stelle“. In der antiken Rhetorik, etwa bei Aristoteles, waren die tópoi gewissermaßen Fundorte für Argumente; die Römer sprachen von loci communes, woraus als Lehnübersetzung unser Gemeinplatz entstand. Als Begriff der Literaturwissenschaft für wiederkehrende Motive prägte ihn Ernst Robert Curtius 1948 in seinem Werk „Europäische Literatur und lateinisches Mittelalter“."
  },
  {
   "word": "Kassandraruf",
@@ -1419,7 +1621,9 @@
    "Warnruf",
    "Schwarzmalerei"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kaˈsandʁaˌʁuːf]",
+  "etymology": "Kassandra war in der griechischen Sage eine Tochter des trojanischen Königs Priamos. Apollon schenkte ihr die Gabe der Weissagung; als sie ihn zurückwies, bestrafte er sie damit, dass niemand ihren Prophezeiungen glaubte. So warnte sie vergeblich vor dem hölzernen Pferd und dem Untergang Trojas. Ihr Name wurde sprichwörtlich für berechtigte, aber ungehörte Warnungen."
  },
  {
   "word": "Canossagang",
@@ -1433,7 +1637,9 @@
    "Demütigung",
    "Bittgang"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kaˈnɔsaˌɡaŋ]",
+  "etymology": "Das Wort erinnert an den Bußgang des deutschen Königs Heinrich IV. im Januar 1077. Um sich vom Kirchenbann zu lösen, stand er der Überlieferung nach drei Tage im Büßergewand vor der Burg Canossa in Norditalien, wo sich Papst Gregor VII. aufhielt. Volkstümlich wurde die Wendung durch Bismarck, der 1872 im Kulturkampf erklärte: „Nach Canossa gehen wir nicht.“"
  },
  {
   "word": "Plutokratie",
@@ -1447,7 +1653,9 @@
    "Herrschaft der Reichen",
    "Oligarchie"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[plutokʁaˈtiː]",
+  "etymology": "Griechisch ploutokratía verbindet ploûtos „Reichtum“ mit kratía „Herrschaft“, zu krateîn „herrschen“. Plutos war auch der Name des griechischen Gottes des Reichtums, dem Aristophanes eine Komödie widmete. Die Bildung folgt demselben Muster wie Demokratie und Aristokratie. Im Deutschen wird das Wort meist kritisch für Gesellschaften gebraucht, in denen Geld politische Macht verschafft."
  },
  {
   "word": "Nepotismus",
@@ -1461,7 +1669,9 @@
    "Günstlingswirtschaft",
    "Filz"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[nepoˈtɪsmʊs]",
+  "etymology": "Das Wort kam über italienisch nepotismo ins Deutsche, das auf lateinisch nepos „Enkel, Neffe“ zurückgeht. Gemeint war ursprünglich die Praxis vieler Renaissancepäpste, ihren Neffen, manchmal in Wahrheit eigenen Söhnen, einträgliche Ämter und Kardinalswürden zu verschaffen. Erst Papst Innozenz XII. schränkte dies 1692 deutlich ein. Heute steht der Begriff allgemein für Vetternwirtschaft."
  },
  {
   "word": "Revanchismus",
@@ -1474,7 +1684,9 @@
    "Vergeltungspolitik",
    "Rückeroberungspolitik"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ʁevãˈʃɪsmʊs]",
+  "etymology": "Grundlage ist französisch revanche „Vergeltung“, zu revancher, das letztlich auf lateinisch vindicare „beanspruchen, rächen“ zurückgeht. Nach dem Deutsch-Französischen Krieg 1870/71 forderten französische Revanchisten die Rückgewinnung von Elsass-Lothringen. Im Kalten Krieg wurde der Begriff im Ostblock zum Kampfwort gegen westdeutsche Ansprüche auf die ehemaligen Ostgebiete."
  },
  {
   "word": "Subsidiarität",
@@ -1487,7 +1699,9 @@
    "Nachrangigkeit",
    "Eigenverantwortung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zʊpzidi̯aʁiˈtɛːt]",
+  "etymology": "Lateinisch subsidium bezeichnete ursprünglich die Reservetruppen in der hinteren Schlachtreihe, dann allgemein „Hilfe, Unterstützung“. Als Gesellschaftsprinzip formulierte Papst Pius XI. die Subsidiarität 1931 in der Enzyklika „Quadragesimo anno“: Was Einzelne oder kleinere Gemeinschaften leisten können, soll ihnen keine höhere Instanz abnehmen. Heute ist der Grundsatz im Recht der Europäischen Union verankert."
  },
  {
   "word": "Junktim",
@@ -1501,7 +1715,9 @@
    "Koppelung",
    "Paket"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈjʊŋktɪm]",
+  "etymology": "Lateinisch iunctim ist ein Adverb zu iungere „verbinden“ und heißt „vereinigt, zusammen“; verwandt ist Konjunktion. Im Deutschen wurde es zum Fachwort von Politik und Recht für die Verknüpfung mehrerer Fragen, die nur gemeinsam entschieden werden sollen. Bekannt ist die Junktimklausel des Grundgesetzes: Eine Enteignung ist nur durch ein Gesetz zulässig, das zugleich die Entschädigung regelt."
  },
  {
   "word": "Akklamation",
@@ -1515,7 +1731,9 @@
    "Zuruf",
    "Zustimmung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[aklamaˈt͡si̯oːn]",
+  "etymology": "Lateinisch acclamatio „Zuruf“ gehört zu acclamare, aus ad „zu“ und clamare „rufen“. Im antiken Rom wurden Feldherren und Kaiser von Soldaten oder Volk per Zuruf begrüßt und so bestätigt. Daraus entstand die Bedeutung einer Abstimmung ohne Stimmzettel, bei der Beifall oder lautes Zustimmen genügt. Verwandt sind Reklamation und proklamieren."
  },
  {
   "word": "Kabale",
@@ -1529,7 +1747,9 @@
    "Ränkespiel",
    "Machenschaft"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kaˈbaːlə]",
+  "etymology": "Das Wort kam über französisch cabale „Intrige, geheime Verbindung“ ins Deutsche. Es geht zurück auf hebräisch qabbala „Überlieferung“, die Bezeichnung der jüdischen Geheimlehre. Aus dem Geheimnisvollen wurde im Französischen das heimliche Ränkeschmieden. Berühmt ist das Wort durch Schillers bürgerliches Trauerspiel „Kabale und Liebe“ von 1784."
  },
  {
   "word": "Renegat",
@@ -1543,7 +1763,9 @@
    "Überläufer",
    "Apostat"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ʁeneˈɡaːt]",
+  "etymology": "Das Wort stammt über französisch renégat aus mittellateinisch renegatus, zu renegare „verleugnen“. Ursprünglich bezeichnete es vor allem Christen, die zum Islam übergetreten waren, etwa im Mittelmeerraum der frühen Neuzeit. Im Deutschen wurde es später auf alle übertragen, die ihre politische oder religiöse Überzeugung aufgeben und die Seite wechseln."
  },
  {
   "word": "Philippika",
@@ -1557,7 +1779,9 @@
    "Brandrede",
    "Tirade"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[fiˈlɪpika]",
+  "etymology": "Der Athener Redner Demosthenes hielt im 4. Jahrhundert v. Chr. mehrere flammende Reden gegen König Philipp II. von Makedonien, um seine Mitbürger vor dessen Machtstreben zu warnen. Cicero nannte seine Angriffsreden gegen Marcus Antonius 44/43 v. Chr. bewusst ebenfalls „Philippicae“; sie kosteten ihn das Leben. Seither heißt jede scharfe Strafrede Philippika."
  },
  {
   "word": "Jeremiade",
@@ -1571,7 +1795,9 @@
    "Lamento",
    "Gejammer"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[jeʁeˈmi̯aːdə]",
+  "etymology": "Das Wort kam über französisch jérémiade ins Deutsche und erinnert an den Propheten Jeremia im Alten Testament. Ihm schrieb die Überlieferung die Klagelieder zu, in denen die Zerstörung Jerusalems im 6. Jahrhundert v. Chr. betrauert wird; die heutige Forschung hält diese Zuschreibung für unsicher. Aus der feierlichen Klage wurde im Alltag das wehleidige Jammern."
  },
  {
   "word": "Travestie",
@@ -1585,7 +1811,9 @@
    "Verulkung",
    "Persiflage"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[tʁavɛsˈtiː]",
+  "etymology": "Das Wort geht auf italienisch travestire „verkleiden“ zurück, aus tra- „hinüber“ und vestire „kleiden“. Als literarische Gattung blühte die Travestie im 17. Jahrhundert: Paul Scarron kleidete in „Le Virgile travesti“ Vergils erhabenes Epos in derbe Alltagssprache. In Deutschland folgte Aloys Blumauer mit einer travestierten Aeneis. Heute meint Travestie auch Bühnenkunst in Kleidung des anderen Geschlechts."
  },
  {
   "word": "Hagiografie",
@@ -1599,7 +1827,9 @@
    "Lobeshymne",
    "Verklärung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[haɡioɡʁaˈfiː]",
+  "etymology": "Das Wort verbindet griechisch hágios „heilig“ mit gráphein „schreiben“. Heiligenlegenden gehörten im Mittelalter zu den meistgelesenen Texten, etwa die „Legenda aurea“ des Jacobus de Voragine aus dem 13. Jahrhundert. Weil solche Lebensbeschreibungen ihre Helden stets als vorbildlich zeigten, nennt man heute auch unkritisch verherrlichende Biografien abwertend Hagiografie."
  },
  {
   "word": "Apologet",
@@ -1613,7 +1843,9 @@
    "Fürsprecher",
    "Verteidiger"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[apoloˈɡeːt]",
+  "etymology": "Griechisch apologētḗs „Verteidiger“ gehört zu apologeîsthai „sich verteidigen“ und apología „Verteidigungsrede“. Berühmt ist Platons „Apologie“, die Verteidigungsrede des Sokrates vor Gericht. Als Apologeten bezeichnet man auch christliche Schriftsteller des 2. Jahrhunderts wie Justin den Märtyrer, die den Glauben gegen heidnische Kritik verteidigten. Heute meint das Wort jeden eifrigen Fürsprecher."
  },
  {
   "word": "Heuristik",
@@ -1627,7 +1859,9 @@
    "Findeverfahren",
    "Daumenregel"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[hɔɪ̯ˈʁɪstɪk]",
+  "etymology": "Grundlage ist griechisch heurískein „finden, entdecken“. Dasselbe Verb steckt in Archimedes' berühmtem Ausruf „Heureka!“ („Ich hab's gefunden!“). Über neulateinisch heuristica wurde das Wort zum Begriff für die Kunst, mit begrenztem Wissen und wenig Zeit zu brauchbaren Lösungen zu gelangen. Heute spielt es in Psychologie, Mathematik und Informatik eine wichtige Rolle."
  },
  {
   "word": "konzedieren",
@@ -1641,7 +1875,9 @@
    "zugestehen",
    "zugeben"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kɔnt͡seˈdiːʁən]",
+  "etymology": "Lateinisch concedere bedeutet „beiseitetreten, weichen, zugestehen“ und setzt sich aus con- und cedere „gehen, weichen“ zusammen. Wer etwas konzediert, weicht also gewissermaßen einen Schritt zurück und räumt dem Gegenüber einen Punkt ein. Zur selben Wortfamilie gehören Konzession und Prozess. Im Deutschen ist das Verb vor allem in Wissenschaft und Debatte gebräuchlich."
  },
  {
   "word": "oktroyieren",
@@ -1655,7 +1891,9 @@
    "aufdrängen",
    "verordnen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ɔktʁo̯aˈjiːʁən]",
+  "etymology": "Französisch octroyer „bewilligen, verleihen“ geht auf ein spätlateinisches Verb zu auctor „Urheber, Bürge“ zurück. Im 19. Jahrhundert erließen Monarchen „oktroyierte“ Verfassungen ohne Mitwirkung einer Volksvertretung, etwa die französische Charte von 1814 oder die preußische Verfassung von 1848. Aus dem gnädigen „Gewähren“ von oben wurde so das „Aufzwingen“."
  },
  {
   "word": "lancieren",
@@ -1669,7 +1907,9 @@
    "streuen",
    "in Umlauf bringen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[lãˈsiːʁən]",
+  "etymology": "Französisch lancer „werfen, schleudern“ geht auf spätlateinisch lanceare „die Lanze schwingen“ zurück, zu lancea „Lanze“. Im Deutschen bekam das Wort übertragene Bedeutungen: Man lanciert eine Nachricht, indem man sie gezielt in die Öffentlichkeit bringt, oder einen Menschen, indem man ihn geschickt in eine Position bringt. In der Schweiz lanciert man auch Projekte und Volksinitiativen."
  },
  {
   "word": "ubiquitär",
@@ -1683,7 +1923,9 @@
    "omnipräsent",
    "überall vorhanden"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ubikviˈtɛːɐ̯]",
+  "etymology": "Das Adjektiv ist von lateinisch ubique „überall“ abgeleitet. Theologisch wichtig wurde die Ubiquität, die Allgegenwart: Im 16. Jahrhundert vertraten lutherische Theologen die Lehre, dass der Leib Christi überall gegenwärtig und daher im Abendmahl real anwesend sei. Heute wird ubiquitär vor allem in Wissenschaft und Technik gebraucht, etwa für weit verbreitete Bakterien."
  },
  {
   "word": "cum grano salis",
@@ -1697,7 +1939,9 @@
    "eingeschränkt",
    "sinngemäß"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kʊm ˈɡʁaːno ˈzaːlɪs]",
+  "etymology": "Lateinisch cum grano salis heißt „mit einem Körnchen Salz“. Die Wendung geht vermutlich auf Plinius den Älteren zurück: In seiner Naturgeschichte beschreibt er ein Gegengift, das mit einem Salzkorn einzunehmen sei. Später wurde daraus das Bild, eine Aussage nicht unverdünnt zu schlucken, sondern mit Vorbehalt. Die genaue Entwicklung der übertragenen Bedeutung ist nicht sicher geklärt."
  },
  {
   "word": "perhorreszieren",
@@ -1711,7 +1955,9 @@
    "verwerfen",
    "zurückweisen"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[pɛʁhɔʁɛsˈt͡siːʁən]",
+  "etymology": "Lateinisch perhorrescere bedeutet „heftig erschaudern“, gebildet aus per „durch und durch“ und horrescere „schaudern“, zu horrere „starren, schaudern“. Verwandt sind Horror und horrend. Im Deutschen ist es ein gelehrtes Wort für entschiedenes Ablehnen; in der älteren Rechtssprache bezeichnete es auch die Ablehnung eines Richters wegen Befangenheit."
  },
  {
   "word": "Hendiadyoin",
@@ -1724,7 +1970,9 @@
    "Zwillingsformel",
    "Doppelausdruck"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[hɛndiaˈdyːɔɪ̯n]",
+  "etymology": "Der Begriff stammt aus der antiken Grammatik und gibt griechisch hen dia dyoin „eins durch zwei“ wieder. Ein klassisches Beispiel findet sich bei Vergil: „pateris libamus et auro“, wörtlich „wir opfern aus Schalen und Gold“, gemeint sind goldene Schalen. Deutsche Beispiele für zwei Wörter, die zusammen einen Begriff bilden, sind „Hab und Gut“ oder „Grund und Boden“."
  },
  {
   "word": "Petitio Principii",
@@ -1737,7 +1985,9 @@
    "Zirkelschluss",
    "Zirkelbeweis"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[peˈtiːt͡si̯o pʁɪnˈt͡siːpi̯i]",
+  "etymology": "Der lateinische Ausdruck bedeutet „Inanspruchnahme des Anfangs“, also des Beweisgrundes. Er übersetzt eine Formulierung des Aristoteles, der diesen Fehlschluss beschrieb: Was erst bewiesen werden soll, wird stillschweigend schon vorausgesetzt. Die mittelalterliche Logik machte die lateinische Formel zum festen Fachbegriff. Im Englischen heißt der Fehler „begging the question“."
  },
  {
   "word": "Contradictio in adjecto",
@@ -1750,7 +2000,9 @@
    "Widerspruch in sich",
    "Oxymoron"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[kɔntʁaˈdɪkt͡si̯o ɪn atˈjɛkto]",
+  "etymology": "Der Ausdruck stammt aus der lateinischen Fachsprache der traditionellen Logik: contradictio heißt „Widerspruch“, in adiecto „im Hinzugefügten“. Gemeint ist ein Beiwort, das dem Wort, zu dem es gehört, widerspricht. Klassische Beispiele sind „hölzernes Eisen“ oder „schwarzer Schimmel“, denn ein Schimmel ist per Definition ein weißes Pferd."
  },
  {
   "word": "Kasuistik",
@@ -1764,7 +2016,9 @@
    "Haarspalterei",
    "Spitzfindigkeit"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[kazuˈɪstɪk]",
+  "etymology": "Grundlage ist lateinisch casus „Fall“, zu cadere „fallen“. Die Kasuistik entstand in der Moraltheologie, die Gewissensfragen anhand von Einzelfällen entschied. Im 17. Jahrhundert griff Blaise Pascal in seinen „Lettres provinciales“ die Kasuistik der Jesuiten scharf an und warf ihr vor, Sünden durch Spitzfindigkeit zu entschuldigen. Daher rührt die abwertende Bedeutung; in Medizin und Recht ist das Wort neutral."
  },
  {
   "word": "Rabulistik",
@@ -1778,7 +2032,9 @@
    "Haarspalterei",
    "Sophisterei"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ʁabuˈlɪstɪk]",
+  "etymology": "Das Wort geht auf lateinisch rabula „Rechtsverdreher, Schreihals“ zurück, das schon bei Cicero einen zänkischen Winkeladvokaten bezeichnet. Vermutlich gehört es zu rabere „toben, wüten“, verwandt mit rabies „Tollwut“. Der Rabulist ist also jemand, der mit lautem Wortgetöse statt mit guten Gründen Recht behalten will."
  },
  {
   "word": "Ochlokratie",
@@ -1791,7 +2047,9 @@
    "Pöbelherrschaft",
    "Herrschaft der Masse"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ɔxlokʁaˈtiː]",
+  "etymology": "Griechisch ochlokratía verbindet óchlos „Menge, Masse, Pöbel“ mit kratía „Herrschaft“. Der Geschichtsschreiber Polybios beschrieb im 2. Jahrhundert v. Chr. einen Kreislauf der Verfassungen: Jede gute Staatsform entartet, und die Demokratie verkommt zur Ochlokratie, der Herrschaft der Masse. Danach beginne der Kreislauf mit der Alleinherrschaft von Neuem."
  },
  {
   "word": "Kamarilla",
@@ -1805,7 +2063,9 @@
    "Hofpartei",
    "Günstlingskreis"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[kamaˈʁɪlja]",
+  "etymology": "Spanisch camarilla bedeutet „Kämmerchen“ und ist eine Verkleinerung von cámara „Kammer“. Im frühen 19. Jahrhundert nannte man so den Kreis inoffizieller Berater um den spanischen König Ferdinand VII., die an den offiziellen Ministern vorbei Einfluss nahmen. Später wurde das Wort auf ähnliche Hofcliquen übertragen, etwa die Kamarilla um den preußischen König Friedrich Wilhelm IV. nach 1848."
  },
  {
   "word": "Fronde",
@@ -1819,7 +2079,9 @@
    "Widerstandsgruppe",
    "Rebellion"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈfʁõːdə]",
+  "etymology": "Französisch fronde bedeutet „Schleuder“. So hieß der Aufstand von Pariser Parlament und Hochadel gegen Kardinal Mazarin in den Jahren 1648 bis 1653, als Ludwig XIV. noch ein Kind war. Der Name spielte angeblich auf Pariser Gassenjungen an, die mit Schleudern Steine warfen und vor der Obrigkeit davonliefen. Seither steht Fronde für eine aufmüpfige Opposition, oft aus den eigenen Reihen."
  },
  {
   "word": "Suada",
@@ -1833,7 +2095,9 @@
    "Wortschwall",
    "Tirade"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈzu̯aːda]",
+  "etymology": "Das Wort geht auf lateinisch suadere „raten, überreden“ zurück. Suada oder Suadela hieß bei den Römern die Göttin der Überredung, das Gegenstück zur griechischen Peitho. Aus der personifizierten Überzeugungskraft wurde im Deutschen ein Wort für einen Redeschwall, der den Zuhörer kaum zu Wort kommen lässt. Verwandt ist das Fremdwort persuasiv „überredend“."
  },
  {
   "word": "Panegyrikus",
@@ -1847,7 +2111,9 @@
    "Lobeshymne",
    "Eloge"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[paneˈɡyːʁikʊs]",
+  "etymology": "Griechisch panēgyrikós lógos bezeichnete eine Rede für eine panḗgyris, eine Festversammlung des ganzen Volkes. Berühmt ist der „Panegyrikos“ des Isokrates aus dem 4. Jahrhundert v. Chr. In der römischen Kaiserzeit wurde daraus die Lobrede auf den Herrscher, etwa die des jüngeren Plinius auf Kaiser Trajan. So bekam das Wort seinen Beiklang des Überschwänglichen."
  },
  {
   "word": "Invektive",
@@ -1861,7 +2127,9 @@
    "Beleidigung",
    "Beschimpfung"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ɪnvɛkˈtiːvə]",
+  "etymology": "Das Wort geht auf spätlateinisch invectiva oratio „scheltende Rede“ zurück, zu invehi „losfahren, über jemanden herfallen“, eigentlich „hineinfahren“ (zu vehere „fahren“). Die Schmährede war schon in der Antike eine eigene Gattung der Rhetorik. Besonders die Humanisten der Renaissance pflegten sie und überzogen einander in gelehrten Streitschriften mit derben Beschimpfungen."
  },
  {
   "word": "Pasquill",
@@ -1875,7 +2143,9 @@
    "Spottschrift",
    "Pamphlet"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[pasˈkvɪl]",
+  "etymology": "Der Name geht auf den Pasquino zurück, einen beschädigten antiken Statuentorso, der 1501 in Rom aufgestellt wurde. Römer hefteten nachts anonyme Spottverse auf Papst und Kurie an ihn. Benannt war die Figur angeblich nach einem witzigen Schneider oder Lehrer aus der Nachbarschaft. Über italienisch pasquillo gelangte das Wort schon im 16. Jahrhundert ins Deutsche."
  },
  {
   "word": "Byzantinismus",
@@ -1889,7 +2159,9 @@
    "Speichelleckerei",
    "Liebedienerei"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[byt͡santiˈnɪsmʊs]",
+  "etymology": "Der Begriff bezieht sich auf Byzanz, das Oströmische Reich mit der Hauptstadt Konstantinopel. Sein Hofzeremoniell galt als besonders prunkvoll und unterwürfig; wer vor den Kaiser trat, musste sich zu Boden werfen. Im 19. Jahrhundert entstand daraus der abwertende Begriff für kriecherische Ergebenheit, der etwa im wilhelminischen Kaiserreich gegen die Schmeichelei bei Hofe gebraucht wurde."
  },
  {
   "word": "Obskurantismus",
@@ -1903,7 +2175,9 @@
    "Rückständigkeit",
    "Dunkelmännertum"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ɔpskuʁanˈtɪsmʊs]",
+  "etymology": "Grundlage ist lateinisch obscurus „dunkel“ beziehungsweise obscurare „verdunkeln“. Der Begriff entstand im späten 18. Jahrhundert als Kampfwort der Aufklärung, die sich als Licht verstand, gegen alle, die das Volk bewusst im Dunkeln halten wollten. Ein frühes Echo sind die humanistischen „Dunkelmännerbriefe“ (1515 bis 1517), die gelehrte Rückständigkeit verspotteten."
  },
  {
   "word": "Sinekure",
@@ -1917,7 +2191,9 @@
    "Versorgungsposten",
    "Ruheposten"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[zineˈkuːʁə]",
+  "etymology": "Die Bezeichnung stammt aus dem Kirchenrecht: Ein beneficium sine cura war eine Pfründe „ohne Sorge“, also ein Kirchenamt mit Einkünften, aber ohne Pflicht zur Seelsorge. Cura meinte hier die cura animarum, die Sorge um die Seelen. Im Deutschen bezeichnet das Wort spöttisch jeden gut bezahlten Posten, der kaum Arbeit macht."
  },
  {
   "word": "Antinomie",
@@ -1931,7 +2207,9 @@
    "Paradoxon",
    "Gegensatz"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[antinoˈmiː]",
+  "etymology": "Griechisch antinomía bedeutet „Widerspruch im Gesetz“, aus antí „gegen“ und nómos „Gesetz“. Ursprünglich ging es um zwei Gesetze, die einander widersprechen. Berühmt wurde der Begriff durch Immanuel Kant, der in der „Kritik der reinen Vernunft“ (1781) Antinomien beschrieb: Satzpaare, etwa dass die Welt einen Anfang hat oder keinen, die sich beide scheinbar zwingend beweisen lassen."
  },
  {
   "word": "Kemenate",
@@ -1944,7 +2222,9 @@
    "Gemach",
    "Stübchen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kemeˈnaːtə]",
+  "etymology": "Das Wort geht auf mittellateinisch caminata zurück, eine „mit einem Kamin versehene Kammer“, zu caminus „Feuerstelle, Ofen“, das aus griechisch kámīnos stammt. Im Mittelhochdeutschen hieß es kemenāte. Auf Burgen waren beheizbare Räume selten; sie dienten oft den Frauen als Wohnräume, daher die Bedeutung „Frauengemach“. Verwandt ist das Wort Kamin."
  },
  {
   "word": "Fisimatenten",
@@ -1957,7 +2237,9 @@
    "Ausflüchte",
    "Umstände"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[fizimaˈtɛntən]",
+  "etymology": "Die Herkunft ist nicht sicher geklärt. Das Wort ist schon seit dem 16. Jahrhundert belegt. Vermutet wird ein Zusammenhang mit mittelhochdeutsch visament „Zierat, Ausschmückung“ oder mit lateinischen Amtsformeln. Die beliebte Geschichte von französischen Soldaten, die Mädchen mit „Visitez ma tente“ ins Zelt lockten, ist eine Volksetymologie: Das Wort ist deutlich älter als die napoleonische Zeit."
  },
  {
   "word": "Tohuwabohu",
@@ -1971,7 +2253,9 @@
    "Durcheinander",
    "Wirrwarr"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[toːhuvaˈboːhu]",
+  "etymology": "Das Wort stammt aus dem Hebräischen: tohu wa-bohu steht im zweiten Vers der Bibel und beschreibt die Erde vor der Schöpfung, bei Luther „wüst und leer“. Über die Bibelsprache gelangte die Formel ins Deutsche. Aus dem ungeformten Urzustand der Welt wurde im Alltag ein „heilloses Durcheinander“, etwa im Kinderzimmer."
  },
  {
   "word": "Brimborium",
@@ -1985,7 +2269,9 @@
    "Getue",
    "Tamtam"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[bʁɪmˈboːʁi̯ʊm]",
+  "etymology": "Das Wort geht auf französisch brimborion „Kleinkram, wertloses Zeug“ zurück. Dieses stammt aus lateinisch breviarium, dem Gebetbuch der Geistlichen. Ursprünglich verspottete man damit unverständlich heruntergemurmelte Gebete. Im Deutschen erhielt das Wort eine gelehrt klingende lateinische Endung und bezeichnet nun „aufgebauschtes Drumherum“."
  },
  {
   "word": "Firlefanz",
@@ -1999,7 +2285,9 @@
    "Unsinn",
    "Tand"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈfɪʁləfant͡s]",
+  "etymology": "Im späten Mittelhochdeutschen bezeichnete virlefanz einen ausgelassenen Springtanz. Der Name ist wohl aus firlei, einem anderen Tanznamen, gebildet und an alfanz „Possen, Narretei“ angelehnt; ganz sicher ist das nicht. Vom wilden Tanz verschob sich die Bedeutung zu „albernes Getue“ und schließlich zu „überflüssiges, wertloses Zeug“."
  },
  {
   "word": "Labsal",
@@ -2013,7 +2301,9 @@
    "Wohltat",
    "Balsam"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈlaːpzaːl]",
+  "etymology": "Labsal gehört zum Verb laben „erquicken, erfrischen“, althochdeutsch labōn, das vermutlich aus lateinisch lavare „waschen“ entlehnt ist. Mit der Nachsilbe -sal, die auch in Trübsal und Schicksal steckt, entstand mittelhochdeutsch labesal. Im Süden und in Österreich sagt man auch „die Labsal“."
  },
  {
   "word": "Gelass",
@@ -2027,7 +2317,9 @@
    "Raum",
    "Verschlag"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ɡəˈlas]",
+  "etymology": "Mittelhochdeutsch gelæze bedeutete „Ort, wo man sich niederlässt, Wohnung“ und gehört zum Verb lassen im Sinn von „sich niederlassen“. Aus dem Ort zum Verweilen wurde mit der Zeit die Bezeichnung für einen kleinen, oft engen Raum oder eine Kammer."
  },
  {
   "word": "Gesinde",
@@ -2040,7 +2332,9 @@
    "Dienerschaft",
    "Dienstboten"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ɡəˈzɪndə]",
+  "etymology": "Althochdeutsch gisindi bedeutete „Gefolgschaft“ und gehört zu sind „Weg, Reise“. Das Gesinde waren also ursprünglich die Weggefährten eines Herrn, die mit ihm zogen. Später bezeichnete das Wort die Knechte und Mägde eines Hofes. Die abwertende Verkleinerungsform davon ist Gesindel."
  },
  {
   "word": "Kaschemme",
@@ -2054,7 +2348,9 @@
    "Kneipe",
    "Absteige"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kaˈʃɛmə]",
+  "etymology": "Das Wort stammt aus dem Romani, wo kačima „Wirtshaus“ bedeutet. Über die Gaunersprache, das Rotwelsch, gelangte es im 19. Jahrhundert ins Deutsche. Dabei bekam es einen abwertenden Beiklang und meint seither eine schäbige, verrufene Kneipe."
  },
  {
   "word": "Wams",
@@ -2067,7 +2363,9 @@
    "Jacke",
    "Joppe"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[vams]",
+  "etymology": "Mittelhochdeutsch wambeis kam über altfranzösisch wambais aus mittellateinisch wambasium. Dahinter steht mittelgriechisch bámbax „Baumwolle“, denn das Wams war ursprünglich ein mit Baumwolle gepolstertes Kleidungsstück, das unter der Rüstung getragen wurde. Später wurde es zur eng anliegenden Oberbekleidung."
  },
  {
   "word": "Schnurre",
@@ -2081,7 +2379,9 @@
    "Schwank",
    "Posse"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈʃnʊʁə]",
+  "etymology": "Schnurre gehört zu schnurren, einem lautmalenden Wort für ein surrendes Geräusch. Ursprünglich bezeichnete es wohl ein schnarrendes Lärminstrument, wie es Spaßmacher benutzten. Daraus entwickelte sich die Bedeutung „Posse, Scherz“ und schließlich „kurze, witzige Erzählung“. Die Einzelheiten dieses Wandels sind nicht ganz sicher."
  },
  {
   "word": "Fährnis",
@@ -2095,7 +2395,9 @@
    "Risiko",
    "Wagnis"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈfɛːɐ̯nɪs]",
+  "etymology": "Mittelhochdeutsch værnisse bedeutete „Gefahr“ und gehört zu vāre „Nachstellung, Hinterhalt“. Aus derselben Wurzel stammt das Wort Gefahr. Mit dem Verb fahren hat Fährnis trotz des Anklangs nichts zu tun."
  },
  {
   "word": "Unbill",
@@ -2109,7 +2411,9 @@
    "Kränkung",
    "Ungerechtigkeit"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈʊnbɪl]",
+  "etymology": "Das Wort geht auf mittelhochdeutsch unbil(de) „Unrecht“ zurück. Es ist das Gegenstück zu billig in seiner alten Bedeutung „angemessen, recht“, die noch in der Formel „recht und billig“ steckt. Eine Unbill ist also etwas, das jemandem nicht zusteht und ihm trotzdem widerfährt."
  },
  {
   "word": "Ungemach",
@@ -2123,7 +2427,9 @@
    "Ärger",
    "Widrigkeit"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈʊnɡəmaːx]",
+  "etymology": "Mittelhochdeutsch ungemach bedeutete „Unbequemlichkeit, Leid“. Es ist die Verneinung von gemach „bequem, ruhig“, das noch im Ausruf „Gemach!“ und in gemächlich lebt. Auch das Gemach als Zimmer war ursprünglich ein Ort der Bequemlichkeit."
  },
  {
   "word": "Kladde",
@@ -2137,7 +2443,9 @@
    "Entwurf",
    "Konzept"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈkladə]",
+  "etymology": "Kladde stammt aus dem Niederdeutschen, wo es „Schmutz, Klecks“ bedeutet; ähnlich heißt niederländisch kladde „Klecks, Entwurf“. Eine Kladde war also ursprünglich ein Schmierheft, in das man unsauber vorschrieb, bevor man ins Reine schrieb. Daraus wurde das Notizheft und die erste Niederschrift selbst."
  },
  {
   "word": "Tand",
@@ -2151,7 +2459,9 @@
    "Plunder",
    "Firlefanz"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[tant]",
+  "etymology": "Mittelhochdeutsch tant bedeutete „leeres Geschwätz, Possen“. Die weitere Herkunft ist nicht sicher geklärt. Später verschob sich die Bedeutung vom leeren Gerede zu hübschem, aber wertlosem Zeug. Bekannt ist Fontanes Ballade „Die Brück’ am Tay“ mit der Zeile „Tand, Tand ist das Gebilde von Menschenhand“."
  },
  {
   "word": "Altvorderen",
@@ -2164,7 +2474,9 @@
    "Vorfahren",
    "Ahnen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈaltfɔʁdəʁən]",
+  "etymology": "Das Wort geht auf mittelhochdeutsch altvorderen „Vorfahren“ zurück, gebildet aus alt und vorder „vorn befindlich, früher“. Die Vorderen sind diejenigen, die einem in der Zeit vorangegangen sind. So bezeichnet das Wort bis heute die Ahnen und früheren Generationen."
  },
  {
   "word": "Lustbarkeit",
@@ -2178,7 +2490,9 @@
    "Fest",
    "Belustigung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈlʊstbaːɐ̯kaɪ̯t]",
+  "etymology": "Lustbarkeit ist abgeleitet vom Adjektiv lustbar, mittelhochdeutsch lustbære „Freude bringend, angenehm“. Die Endung -bar geht auf ein altes Wort für „tragend, bringend“ zurück, das zu althochdeutsch beran „tragen“ gehört. Eine Lustbarkeit ist also etwas, das Freude bringt, etwa ein Fest."
  },
  {
   "word": "Sperenzchen",
@@ -2192,7 +2506,9 @@
    "Zicken",
    "Mätzchen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ʃpeˈʁɛnt͡sçən]",
+  "etymology": "Sperenzchen ist eine Verkleinerung von Sperenzien. Dieses geht vermutlich auf mittellateinisch sperantia „Hoffnung“ zurück, beeinflusst von sperren im Sinn von „sich sträuben“. Wer Sperenzchen macht, sperrt sich also und macht unnötige Umstände. Ganz sicher ist diese Herleitung nicht."
  },
  {
   "word": "Remise",
@@ -2206,7 +2522,9 @@
    "Wagenhalle",
    "Depot"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ʁəˈmiːzə]",
+  "etymology": "Das Wort kommt von französisch remise „Schuppen, Unterstand“, zu remettre „zurückstellen, unterstellen“, aus lateinisch remittere „zurückschicken“. In der Remise stellte man Kutschen und Wagen unter. Verwandt ist remis im Schach: Die unentschiedene Partie wird gleichsam zurückgestellt."
  },
  {
   "word": "Dämmerschoppen",
@@ -2219,7 +2537,9 @@
    "Feierabendbier",
    "Abendtrunk"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈdɛmɐʃɔpən]",
+  "etymology": "Das Wort verbindet Dämmerung mit Schoppen, einem Maß für Wein oder Bier. Schoppen kam über französisch chopine aus mittelniederdeutsch schōpen „Schöpfkelle“ und ist mit schöpfen verwandt. Der Dämmerschoppen ist das abendliche Gegenstück zum Frühschoppen am Vormittag."
  },
  {
   "word": "Hornung",
@@ -2231,7 +2551,9 @@
   "synonyms": [
    "Februar"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈhɔʁnʊŋ]",
+  "etymology": "Hornung ist ein alter Name für den Februar, schon althochdeutsch hornung. Er erscheint in der Liste deutscher Monatsnamen, die Karl der Große einführen wollte. Die Bedeutung ist nicht sicher geklärt. Vermutet wird ein Zusammenhang mit hornung „Bastard“, weil der Februar als kurzer Monat zu kurz gekommen sei."
  },
  {
   "word": "Anger",
@@ -2244,7 +2566,9 @@
    "Dorfwiese",
    "Grasplatz"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈaŋɐ]",
+  "etymology": "Schon althochdeutsch angar bezeichnete ein „Grasland, eine Wiese“; die weitere Herkunft ist nicht sicher geklärt. Der Anger war oft die gemeinsam genutzte Dorfwiese in der Ortsmitte. Davon hat das Angerdorf seinen Namen, eine besonders in Ostdeutschland verbreitete Dorfform, bei der die Häuser um einen zentralen Anger liegen."
  },
  {
   "word": "Gestade",
@@ -2258,7 +2582,9 @@
    "Küste",
    "Strand"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ɡəˈʃtaːdə]",
+  "etymology": "Mittelhochdeutsch gestat(e) bedeutete „Ufer“. Grundwort ist althochdeutsch stad „Ufer, Landeplatz“, das wohl zur Wortfamilie von stehen gehört, also eine Stelle meint, an der man festen Stand hat. Heute lebt das Wort fast nur noch in der Dichtung."
  },
  {
   "word": "Odem",
@@ -2271,7 +2597,9 @@
    "Atem",
    "Hauch"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈoːdəm]",
+  "etymology": "Odem ist eine Nebenform von Atem, mittelhochdeutsch ātem. Im Mitteldeutschen wurde das lange a zu o verdumpft. Durch Luthers Bibelübersetzung wurde die Form bekannt: Gott „blies ihm ein den lebendigen Odem in seine Nase“. Deshalb klingt Odem bis heute feierlich."
  },
  {
   "word": "Wetterleuchten",
@@ -2284,7 +2612,9 @@
    "Blitzschein",
    "Gewitterschein"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈvɛtɐlɔɪ̯çtən]",
+  "etymology": "Mittelhochdeutsch weterleichen setzte sich aus Wetter und leichen „hüpfen, tanzen“ zusammen: Die Blitze tanzen am Himmel. Als leichen nicht mehr verstanden wurde, deutete man es zu leuchten um, was ja ebenfalls gut passt. Das ist ein typisches Beispiel für Volksetymologie."
  },
  {
   "word": "Kate",
@@ -2297,7 +2627,9 @@
    "Hütte",
    "Häuschen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈkaːtə]",
+  "etymology": "Kate stammt aus dem Niederdeutschen, mittelniederdeutsch kote, kate „kleines Haus, Hütte“. Verwandt ist englisch cot, das in cottage steckt. Die Bewohner einer Kate hießen Kätner oder Kötter, kleine Landbesitzer, die oft als Tagelöhner arbeiteten."
  },
  {
   "word": "Alkoven",
@@ -2310,7 +2642,9 @@
    "Bettnische",
    "Nische"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[alˈkoːvən]",
+  "etymology": "Das Wort kam über französisch alcôve und spanisch alcoba aus arabisch al-qubba „Gewölbe, Kuppel, gewölbter Raum“. Das al ist der arabische Artikel, wie in Alkohol oder Algebra. Im Deutschen bezeichnet Alkoven eine Bettnische, die früher in Wohnungen verbreitet war."
  },
  {
   "word": "Petschaft",
@@ -2323,7 +2657,9 @@
    "Siegel",
    "Stempel"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈpɛt͡ʃaft]",
+  "etymology": "Mittelhochdeutsch petschat wurde aus tschechisch pečeť „Siegel“ entlehnt. Später wurde die Endung an die deutsche Nachsilbe -schaft angeglichen, obwohl das Wort damit nichts zu tun hat. Verwandt ist das Verb petschieren „mit einem Petschaft versiegeln“."
  },
  {
   "word": "Unschlitt",
@@ -2336,7 +2672,9 @@
    "Talg",
    "Fett"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈʊnʃlɪt]",
+  "etymology": "Das Wort geht auf althochdeutsch unslit „Talg“ zurück. Die weitere Herkunft ist nicht sicher geklärt. Unschlittkerzen waren lange das Licht der einfachen Leute, weil Bienenwachs teuer war. Sie rußten allerdings stark und rochen unangenehm."
  },
  {
   "word": "Kienspan",
@@ -2349,7 +2687,9 @@
    "Leuchtspan",
    "Fackel"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈkiːnʃpaːn]",
+  "etymology": "Kien, althochdeutsch kien, bezeichnet harzreiches Kiefernholz, Span ist ein abgespaltenes Holzstück. Der Kienspan brannte dank des Harzes hell und diente lange als Lichtquelle. Spannend: Auch der Baumname Kiefer geht auf mittelhochdeutsch kienforhe „Kienföhre“ zurück."
  },
  {
   "word": "Butzenscheibe",
@@ -2361,7 +2701,9 @@
   "synonyms": [
    "Bleiglasfenster"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈbʊt͡sənʃaɪ̯bə]",
+  "etymology": "Butzen bedeutet „Klumpen, Verdickung“. Bei der Herstellung blieb in der Mitte der runden, mundgeblasenen Scheibe eine Verdickung zurück, wo das Werkzeug des Glasmachers ansetzte. Im 19. Jahrhundert verspottete man altertümelnde Dichtung als „Butzenscheibenlyrik“."
  },
  {
   "word": "Kontor",
@@ -2375,7 +2717,9 @@
    "Schreibstube",
    "Niederlassung"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kɔnˈtoːɐ̯]",
+  "etymology": "Kontor kam über niederländisch kantoor aus französisch comptoir „Zahltisch“, zu compter „rechnen, zählen“, aus lateinisch computare. Damit ist es entfernt mit Computer verwandt. Berühmt waren die Kontore der Hanse, etwa in London, Brügge, Bergen und Nowgorod."
  },
  {
   "word": "Zähre",
@@ -2387,7 +2731,9 @@
   "synonyms": [
    "Träne"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈt͡sɛːʁə]",
+  "etymology": "Zähre geht auf mittelhochdeutsch zaher, althochdeutsch zahar „Träne“ zurück. Das Wort ist sehr alt und verwandt mit englisch tear und griechisch dákry. Im Deutschen wurde es von Träne verdrängt und überlebt nur noch in der Dichtung."
  },
  {
   "word": "Ingrimm",
@@ -2401,7 +2747,9 @@
    "Groll",
    "Zorn"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈɪnɡʁɪm]",
+  "etymology": "Ingrimm ist aus in und Grimm zusammengesetzt und meint den Zorn, der im Inneren nagt, statt auszubrechen. Grimm geht auf althochdeutsch grimmi „wild, zornig“ zurück. Zur selben Familie gehören grimmig und ergrimmen."
  },
  {
   "word": "Kurzweil",
@@ -2415,7 +2763,9 @@
    "Unterhaltung",
    "Vergnügen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈkʊʁt͡svaɪ̯l]",
+  "etymology": "Mittelhochdeutsch kurzwīle bedeutete „kurze Zeit“ und dann „Zeitvertreib“: Bei angenehmer Unterhaltung kommt einem die Zeit kurz vor. Das Gegenstück ist die Langeweile, bei der sich die Zeit dehnt. Erhalten ist das Wort auch im Adjektiv kurzweilig."
  },
  {
   "word": "Kinkerlitzchen",
@@ -2429,7 +2779,9 @@
    "Albernheiten",
    "Firlefanz"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈkɪŋkɐlɪt͡sçən]",
+  "etymology": "Die Herkunft ist nicht sicher geklärt. Vermutet wird eine Entlehnung aus französisch quincaille „Kurzwaren, kleine Eisenwaren“, die im Deutschen verballhornt und mit der Verkleinerungsendung -chen versehen wurde. Aus billigem Kleinkram wurden so „Nichtigkeiten“ und „Albernheiten“."
  },
  {
   "word": "Kokolores",
@@ -2443,7 +2795,9 @@
    "Quatsch",
    "Mumpitz"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[kokoˈloːʁəs]",
+  "etymology": "Die Herkunft ist nicht sicher geklärt. Vermutet wird eine scherzhafte Neubildung mit lateinisch klingender Endung, wie sie die Umgangssprache gern für Unsinnswörter nutzt. Ähnlich gebildete Wörter für Unfug sind etwa Brimborium oder Larifari."
  },
  {
   "word": "Katzenjammer",
@@ -2457,7 +2811,9 @@
    "Ernüchterung",
    "Niedergeschlagenheit"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈkat͡sənjamɐ]",
+  "etymology": "Das Wort kam um 1800 in der Studentensprache auf: Das Elend nach dem Rausch wird mit dem kläglichen Jammern von Katzen verglichen. Der Kater im Sinn von „Nachwirkung eines Rausches“ geht dagegen wohl auf Katarrh zurück und wurde durch Katzenjammer beeinflusst."
  },
  {
   "word": "Kärrnerarbeit",
@@ -2471,7 +2827,9 @@
    "Schufterei",
    "Knochenarbeit"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈkɛʁnɐʔaʁbaɪ̯t]",
+  "etymology": "Ein Kärrner, mittelhochdeutsch karrære, war ein Fuhrmann oder Karrenschieber, abgeleitet von Karren. Seine Arbeit war schwer und wenig angesehen. Berühmt ist Schillers Zweizeiler „Kant und seine Ausleger“: „Wenn die Könige baun, haben die Kärrner zu tun.“ Daher steht Kärrnerarbeit für mühsame, wenig gewürdigte Fleißarbeit."
  },
  {
   "word": "verballhornen",
@@ -2485,7 +2843,9 @@
    "verdrehen",
    "verschlimmbessern"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[fɛɐ̯ˈbalhɔʁnən]",
+  "etymology": "Das Wort geht auf den Lübecker Buchdrucker Johann Balhorn zurück. Seine Ausgabe des Lübecker Stadtrechts von 1586 trug den Hinweis „verbessert“, enthielt aber zahlreiche Fehler, die vermutlich von den Bearbeitern stammten. So wurde Balhorn ungerechterweise zum Inbegriff dessen, der etwas durch vermeintliches Verbessern entstellt."
  },
  {
   "word": "mäandern",
@@ -2498,7 +2858,9 @@
    "sich schlängeln",
    "sich winden"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[mɛˈandɐn]",
+  "etymology": "Das Verb ist vom Fluss Mäander abgeleitet, griechisch Maíandros, heute Büyük Menderes in der westlichen Türkei. Er war schon in der Antike für seine zahllosen Windungen berühmt. Nach ihm heißen auch Flussschlingen und das griechische Zierband mit rechtwinklig verschlungenen Linien."
  },
  {
   "word": "prassen",
@@ -2512,7 +2874,9 @@
    "verschwenden",
    "schwelgen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈpʁasən]",
+  "etymology": "Prassen kam im Spätmittelalter aus dem Niederdeutschen, wo brassen „lärmen, schlemmen“ bedeutete. Das Wort ist vermutlich lautmalend und ahmt den Lärm eines Gelages nach. Aus dem lauten Feiern wurde das verschwenderische Leben. Dazu gehören Prasser und Prasserei."
  },
  {
   "word": "sich verlustieren",
@@ -2525,7 +2889,9 @@
    "sich vergnügen",
    "sich amüsieren"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[zɪç fɛɐ̯lʊsˈtiːʁən]",
+  "etymology": "Das Wort ist eine scherzhafte Bildung zu Lust mit der fremdwörtlich klingenden Endung -ieren, wohl nach dem Vorbild von Wörtern wie amüsieren. Die feierlich-gelehrte Form für ein ganz alltägliches Vergnügen macht den humorvollen Ton aus."
  },
  {
   "word": "kredenzen",
@@ -2539,7 +2905,9 @@
    "darreichen",
    "einschenken"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[kʁeˈdɛnt͡sən]",
+  "etymology": "Das Verb geht auf italienisch credenza „Glaube, Vertrauen“ zurück, aus lateinisch credere „glauben“. An Fürstenhöfen wurden Speisen und Getränke vorgekostet, um Vertrauen zu schaffen, dass sie nicht vergiftet waren. Danach hieß auch der Anrichtetisch Kredenz, und kredenzen wurde zum feierlichen Darreichen."
  },
  {
   "word": "darben",
@@ -2553,7 +2921,9 @@
    "Not leiden",
    "entbehren"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈdaʁbən]",
+  "etymology": "Althochdeutsch darbēn bedeutete „entbehren, Mangel haben“. Es ist verwandt mit dürfen, das ursprünglich „brauchen, nötig haben“ hieß, und mit bedürfen und Notdurft. Wer darbt, hat also nicht, was er braucht."
  },
  {
   "word": "sich sputen",
@@ -2566,7 +2936,9 @@
    "sich beeilen",
    "eilen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[zɪç ˈʃpuːtən]",
+  "etymology": "Das Wort geht auf althochdeutsch spuoten „beschleunigen“ zurück, zu spuot „Gelingen, Schnelligkeit“. Verwandt ist englisch speed, das ursprünglich ebenfalls „Gelingen, Erfolg“ bedeutete. In die Standardsprache gelangte sich sputen vor allem über das Niederdeutsche."
  },
  {
   "word": "frönen",
@@ -2580,7 +2952,9 @@
    "huldigen",
    "nachgehen"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈfʁøːnən]",
+  "etymology": "Mittelhochdeutsch vrœnen bedeutete „Frondienst leisten, dienen“. Es gehört zu althochdeutsch frō „Herr“, das auch in Fronleichnam „Leib des Herrn“ und in Frau steckt. Wer einer Leidenschaft frönt, dient ihr also wie einem Herrn."
  },
  {
   "word": "lugen",
@@ -2594,7 +2968,9 @@
    "linsen",
    "gucken"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈluːɡən]",
+  "etymology": "Mittelhochdeutsch luogen, althochdeutsch luogēn bedeutete „schauen, spähen“. In der Schweiz lebt es als luege „schauen“ im Alltag weiter. Ob englisch look verwandt ist, ist nicht sicher geklärt. Das Wort steckt auch in Luginsland, einem alten Namen für Wachtürme."
  },
  {
   "word": "dräuen",
@@ -2607,7 +2983,9 @@
    "drohen",
    "heraufziehen"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈdʁɔɪ̯ən]",
+  "etymology": "Dräuen ist eine ältere Nebenform von drohen und geht auf mittelhochdeutsch dröuwen zurück. Während drohen sich in der Alltagssprache durchsetzte, blieb dräuen der Dichtung vorbehalten. Dort klingt es besonders düster, etwa von dräuenden Wolken oder Gefahren."
  },
  {
   "word": "ausbaldowern",
@@ -2621,7 +2999,9 @@
    "ausspähen",
    "herausfinden"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈaʊ̯sbaldoːvɐn]",
+  "etymology": "Das Wort stammt aus der Gaunersprache, die es aus dem Jiddischen übernahm: baal dowor bedeutet „Herr der Sache“, aus hebräisch ba’al davar. Der Baldower war der Kundschafter, der einen Einbruch vorbereitete. Daraus wurde ausbaldowern für „listig auskundschaften“."
  },
  {
   "word": "picheln",
@@ -2635,7 +3015,9 @@
    "zechen",
    "bechern"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈpɪçəln]",
+  "etymology": "Die Herkunft ist nicht sicher geklärt. Das Wort ist seit dem 19. Jahrhundert umgangssprachlich belegt. Vermutet wird ein Zusammenhang mit Pegel im Sinn einer Markierung am Trinkgefäß, doch das ist unsicher. Gemeint ist das gemütliche, wiederholte Trinken von Alkohol."
  },
  {
   "word": "dengeln",
@@ -2648,7 +3030,9 @@
    "schärfen",
    "hämmern"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈdɛŋəln]",
+  "etymology": "Mittelhochdeutsch tengelen gehört zu althochdeutsch tangol „Hammer“ und zu einem alten Verb für „schlagen“. Beim Dengeln wird die Schneide der Sense auf einem kleinen Amboss dünn gehämmert, statt sie zu schleifen. Das helle Klingen des Dengelhammers war früher ein typisches Geräusch der Heuernte."
  },
  {
   "word": "kalfatern",
@@ -2661,7 +3045,9 @@
    "abdichten",
    "verstopfen"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[kalˈfaːtɐn]",
+  "etymology": "Das Wort kam über niederländisch kalfateren aus romanischen Sprachen, vergleiche italienisch calafatare und französisch calfater. Der weitere Ursprung ist umstritten: Diskutiert werden mittelgriechisch kalaphatein und arabisch qalfaṭa. Das Abdichten von Schiffsfugen mit Werg und Teer war im ganzen Mittelmeerraum verbreitet."
  },
  {
   "word": "lauschig",
@@ -2675,7 +3061,9 @@
    "gemütlich",
    "anheimelnd"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈlaʊ̯ʃɪç]",
+  "etymology": "Lauschig gehört zu lauschen in dessen alter Bedeutung „sich versteckt halten, lauern“, mittelhochdeutsch lūschen. Ursprünglich hieß lauschig also „versteckt, verborgen“. Daraus wurde die Bedeutung „gemütlich und abgeschieden“, etwa für ein lauschiges Plätzchen im Garten."
  },
  {
   "word": "hehr",
@@ -2689,7 +3077,9 @@
    "edel",
    "würdevoll"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[heːɐ̯]",
+  "etymology": "Althochdeutsch hēr bedeutete „erhaben, vornehm“, ursprünglich wohl „grauhaarig, alt“ und damit „ehrwürdig“. Aus der Steigerungsform hēriro „der Ältere, Ehrwürdigere“ entstand das Wort Herr. Heute ist hehr gehoben und oft leicht ironisch, etwa bei hehren Zielen."
  },
  {
   "word": "ruchbar",
@@ -2702,7 +3092,9 @@
    "bekannt",
    "publik"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈʁuːxbaːɐ̯]",
+  "etymology": "Das Wort stammt aus niederdeutsch ruchtbar, zu rucht „Ruf, Gerücht“, das dem hochdeutschen Ruf entspricht. Das t fiel später weg, und man brachte das Wort mit Geruch in Verbindung. Auch Gerücht ist niederdeutscher Herkunft. Was ruchbar wird, spricht sich also herum."
  },
  {
   "word": "hanebüchen",
@@ -2716,7 +3108,9 @@
    "unerhört",
    "absurd"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈhaːnəbyːçən]",
+  "etymology": "Mittelhochdeutsch hagenbüechen bedeutete „aus Hainbuchenholz“. Dieses Holz ist besonders hart und knorrig. Daraus entwickelte sich die Bedeutung „derb, grob, klotzig“ und schließlich „unerhört, haarsträubend“. Heute denkt kaum jemand mehr an den Baum, wenn er eine Ausrede hanebüchen nennt."
  },
  {
   "word": "frugal",
@@ -2730,7 +3124,9 @@
    "bescheiden",
    "karg"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[fʁuˈɡaːl]",
+  "etymology": "Frugal kam über französisch frugal aus lateinisch frugalis „sparsam, ordentlich“, zu frux, frugis „Frucht, Ertrag“. Gemeint war ursprünglich eine bescheidene Lebensweise, die mit dem auskommt, was der Boden hergibt. Heute wird frugal gelegentlich fälschlich im Sinn von „üppig“ gebraucht."
  },
  {
   "word": "lind",
@@ -2744,7 +3140,9 @@
    "sanft",
    "lau"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[lɪnt]",
+  "etymology": "Althochdeutsch lindi bedeutete „weich, sanft, mild“. Verwandt sind lindern und gelinde sowie englisch lithe „geschmeidig“. Ob auch der Baumname Linde dazugehört, etwa wegen ihres weichen Holzes oder Bastes, ist nicht sicher geklärt."
  },
  {
   "word": "bresthaft",
@@ -2758,7 +3156,9 @@
    "kränklich",
    "hinfällig"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈbʁɛsthaft]",
+  "etymology": "Bresthaft gehört zu Bresten „Gebrechen, Mangel“, mittelhochdeutsch breste. Dieses geht auf mittelhochdeutsch bresten „brechen, mangeln“ zurück und ist mit bersten verwandt. In der Schweiz ist Bresten noch geläufig, etwa in Altersbresten."
  },
  {
   "word": "schummrig",
@@ -2772,7 +3172,9 @@
    "halbdunkel",
    "düster"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[ˈʃʊmʁɪç]",
+  "etymology": "Das Adjektiv gehört zu niederdeutsch Schummer „Dämmerung“ und schummern „dämmern“. Aus dem Niederdeutschen verbreitete es sich in die Umgangssprache. Verwandt ist die Schummerstunde, die Dämmerstunde, in der man noch kein Licht anzündet."
  },
  {
   "word": "allenthalben",
@@ -2785,7 +3187,9 @@
    "überall",
    "allerorts"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈalənthalbən]",
+  "etymology": "Mittelhochdeutsch allenthalben entstand aus allen halben „auf allen Seiten“. Halbe bedeutete „Seite“, wie noch in deshalb, innerhalb und außerhalb. Das t ist ein eingeschobener Gleitlaut, wie er auch in eigentlich oder wesentlich vorkommt."
  },
  {
   "word": "weiland",
@@ -2799,7 +3203,9 @@
    "früher",
    "vormals"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈvaɪ̯lant]",
+  "etymology": "Weiland geht auf mittelhochdeutsch wīlent, althochdeutsch wīlōn zurück, eine alte Kasusform von wīla „Weile, Zeit“. Ursprünglich hieß es „zuweilen“, dann „einst, vormals“. Früher stand es feierlich vor Namen Verstorbener, heute wird es meist scherzhaft gebraucht."
  },
  {
   "word": "jählings",
@@ -2813,7 +3219,9 @@
    "unvermittelt",
    "jäh"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈjɛːlɪŋs]",
+  "etymology": "Jählings gehört zu jäh, mittelhochdeutsch gæhe „schnell, ungestüm“. Die Endung -lings bildet Adverbien wie in blindlings oder rücklings. Da jäh auch „steil“ bedeuten kann, steht jählings sowohl für ein plötzliches Geschehen als auch für einen steilen Abfall."
  },
  {
   "word": "flugs",
@@ -2827,7 +3235,9 @@
    "sofort",
    "geschwind"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[flʊks]",
+  "etymology": "Flugs ist ursprünglich der Genitiv von Flug und bedeutet wörtlich „im Flug“. Solche erstarrten Genitive als Adverbien gibt es im Deutschen öfter, etwa bei stracks, rings oder anfangs. Wer etwas flugs erledigt, tut es also so schnell, als flöge er."
  },
  {
   "word": "fürderhin",
@@ -2841,7 +3251,9 @@
    "fortan",
    "hinfort"
   ],
-  "level": 3
+  "level": 3,
+  "ipa": "[ˈfʏʁdɐhɪn]",
+  "etymology": "Fürder, mittelhochdeutsch vürder, bedeutete „weiter, vorwärts“ und ist eine Steigerungsform zu vor. Mit hin entstand fürderhin „von nun an, künftig“. Eng verwandt ist fördern, das ursprünglich „weiterbringen, voranbringen“ hieß."
  },
  {
   "word": "mitnichten",
@@ -2854,7 +3266,9 @@
    "keineswegs",
    "keinesfalls"
   ],
-  "level": 1
+  "level": 1,
+  "ipa": "[mɪtˈnɪçtən]",
+  "etymology": "Mitnichten geht auf mittelhochdeutsch mit nihte „mit nichts, in keiner Weise“ zurück. Nicht selbst entstand aus althochdeutsch ni wiht „nicht ein Ding“; wiht bedeutete „Ding, Wesen“ und lebt im Wort Wicht weiter. Mitnichten heißt also wörtlich „mit keinem Ding“."
  },
  {
   "word": "Maulaffen feilhalten",
@@ -2868,7 +3282,9 @@
    "glotzen",
    "herumstehen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈmaʊ̯lʔafən ˈfaɪ̯lhaltən]",
+  "etymology": "Feilhalten heißt „zum Verkauf anbieten“, zu feil „käuflich“. Die Herkunft von Maulaffe ist nicht sicher geklärt. Vermutet wird eine Umdeutung von „das Maul offen halten“. Maulaffen hießen aber auch Kienspanhalter in Form eines Kopfes mit offenem Mund. Wer Maulaffen feilhält, steht also gaffend herum."
  },
  {
   "word": "Fersengeld geben",
@@ -2882,6 +3298,8 @@
    "davonlaufen",
    "abhauen"
   ],
-  "level": 2
+  "level": 2,
+  "ipa": "[ˈfɛʁzənɡɛlt ˈɡeːbən]",
+  "etymology": "Die Wendung ist schon im Mittelhochdeutschen belegt, ihre Herkunft ist nicht sicher geklärt. Am einfachsten deutet man sie als Spott: Wer flieht, bezahlt nicht mit Münzen, sondern zeigt dem Gegner nur die Fersen. Andere vermuten einen Zusammenhang mit einer mittelalterlichen Abgabe, die beim Verlassen eines Rechtsverhältnisses fällig wurde."
  }
 ]

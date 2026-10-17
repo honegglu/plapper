@@ -41,7 +41,7 @@ export function Shell({ children, focus }: { children: ReactNode; focus: boolean
   const rank = rankFor(xp)
 
   return (
-    <div className="min-h-full lg:grid lg:grid-cols-[248px_1fr]">
+    <div className="flex min-h-full flex-col lg:grid lg:grid-cols-[248px_1fr]">
       <aside className="sticky top-0 hidden h-[100dvh] flex-col border-r border-hairline bg-surface-soft px-3 py-5 lg:flex">
         <div className="px-2">
           <Logo />
@@ -77,7 +77,7 @@ export function Shell({ children, focus }: { children: ReactNode; focus: boolean
         </div>
       </aside>
 
-      <main className={`min-w-0 ${focus ? '' : 'pb-24 lg:pb-0'}`}>{children}</main>
+      <main className={`flex min-w-0 flex-1 flex-col ${focus ? '' : 'pb-24 lg:pb-0'}`}>{children}</main>
 
       {!focus && (
         <nav

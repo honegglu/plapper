@@ -24,6 +24,14 @@ describe('Wortbestand', () => {
     }
   })
 
+  it('hat zu jedem Wort Aussprache und Wortherkunft', () => {
+    for (const w of WORDS) {
+      expect(w.ipa, w.word).toMatch(/^\[.+\]$/)
+      expect(w.etymology?.length ?? 0, w.word).toBeGreaterThan(40)
+      expect(/[\u2013\u2014]/.test(w.etymology ?? ''), w.word).toBe(false)
+    }
+  })
+
   it('findet für die meisten Beispielsätze eine Lücke', () => {
     const ok = WORDS.filter((w) => makeCloze(w)).length
     expect(ok / WORDS.length).toBeGreaterThan(0.8)
