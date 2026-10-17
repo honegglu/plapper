@@ -1,10 +1,10 @@
-import { ArrowLeft, ArrowRight, Books, Check, Fire, Lightning, Sparkle, X } from '@phosphor-icons/react'
+import { ArrowLeft, ArrowRight, Books, Check, Fire, Lightning, Scroll, Sparkle, X } from '@phosphor-icons/react'
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { SessionHeader, XpCounter, type XpPopData } from '../components/SessionBits'
 import { SwipeCard, type SwipeDir, type SwipeHandle } from '../components/SwipeCard'
 import { Button, Card, ProgressRing } from '../components/ui'
-import { WordMeta, WordTitle } from '../components/WordBits'
+import { Etymology, WordMeta, WordTitle } from '../components/WordBits'
 import { comboMultiplier, MASTERED_BOX, XP } from '../lib/game'
 import { useKeys, useSpell, vibrate } from '../lib/hooks'
 import { buildRound, type Question } from '../lib/quiz'
@@ -101,9 +101,11 @@ function Prompt({ q }: { q: Question }) {
   return null
 }
 
-function Feedback({ q, answer, onNext }: { q: Question; answer: Answer; onNext: () => void }) {
+function Feedback({ q, answer, onNext, onHold }: { q: Question; answer: Answer; onNext: () => void; onHold: () => void }) {
   const s = useSpell()
   const reduce = useReducedMotion()
+  const [showOrigin, setShowOrigin] = useState(false)
+  const hasOrigin = !!(q.word.etymology ?? q.word.origin)
   const showSolution = !answer.correct || q.kind !== 'meaning'
   return (
     <motion.div
@@ -131,8 +133,20 @@ function Feedback({ q, answer, onNext }: { q: Question; answer: Answer; onNext: 
               <span className="font-semibold">{s(q.word.word)}</span>: {s(q.word.definition)}
             </p>
           )}
+          {hasOrigin && !showOrigin && (
+            <button
+              onClick={() => {
+                onHold()
+                setShowOrigin(true)
+              }}
+              className="press mt-2 inline-flex items-center gap-1.5 text-sm font-medium text-primary-ink underline-offset-2 hover:underline"
+            >
+              <Scroll size={15} weight="bold" /> Woher kommt das Wort?
+            </button>
+          )}
         </div>
       </div>
+      {showOrigin && <Etymology word={q.word} className="mt-3 bg-canvas/70!" />}
       <Button className="mt-4 w-full" onClick={onNext}>
         Weiter <ArrowRight size={18} weight="bold" />
       </Button>
@@ -433,7 +447,7 @@ export function Practice() {
 
       {answer && (
         <div className="mt-4">
-          <Feedback q={q} answer={answer} onNext={next} />
+          <Feedback q={q} answer={answer} onNext={next} onHold={() => window.clearTimeout(timer.current)} />
         </div>
       )}
     </div>

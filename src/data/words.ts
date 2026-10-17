@@ -2,7 +2,7 @@ import raw from './words.json'
 import { slug } from '../lib/text'
 import type { Word } from '../lib/types'
 
-type RawWord = Omit<Word, 'id' | 'register'>
+type RawWord = Omit<Word, 'id' | 'register' | 'ipa' | 'etymology'> & { ipa?: string; etymology?: string }
 
 // Stilangaben wie "gehoben:" oder "veraltet:" stehen in den Rohdaten vor der Definition.
 // Sie werden abgetrennt und als eigenes Etikett angezeigt (sonst verraten sie in der Abfrage die Lösung).
@@ -34,6 +34,12 @@ function splitRegister(definition: string): { register: string | null; definitio
   return { register: m[1], definition: m[2] }
 }
 
-export const WORDS: Word[] = (raw as RawWord[]).map((w) => ({ ...w, ...splitRegister(w.definition), id: slug(w.word) }))
+export const WORDS: Word[] = (raw as RawWord[]).map((w) => ({
+  ...w,
+  ...splitRegister(w.definition),
+  ipa: w.ipa ?? null,
+  etymology: w.etymology ?? null,
+  id: slug(w.word),
+}))
 
 export const WORDS_BY_ID: Record<string, Word> = Object.fromEntries(WORDS.map((w) => [w.id, w]))

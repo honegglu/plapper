@@ -10,6 +10,10 @@ export interface Word {
   register: string | null
   example: string
   origin: string | null
+  /** Aussprache in IPA, z. B. "[kɔnt͡siˈli̯ant]" */
+  ipa: string | null
+  /** Wortherkunft als kurze Geschichte (2 bis 4 Sätze) */
+  etymology: string | null
   synonyms: string[]
   /** Seltenheit: 1 = anspruchsvoll, 2 = selten, 3 = sehr selten */
   level: 1 | 2 | 3
